@@ -1,6 +1,6 @@
 # How to use the docker container for the couse
 
-We provide a docker image [oduerr/tf_docker](oduerr/tf_docker) with [Tensorflow](www.tensorflow.org) (v0.12.1) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). 
+We provide a docker image [oduerr/tf_docker](https://github.com/oduerr/tf_docker) with [Tensorflow](http://www.tensorflow.org) (v0.12.1) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). 
 
 ## Installation of docker
 
@@ -18,6 +18,7 @@ open [http://localhost:8080](http://localhost:8080) or [http://192.168.99.100:80
 
 ## Running with a linked file system.
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
+
 ```
 docker run -p 8700:8888 -p 8701:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/dl_tutorial/ -it oduerr/tf_docker
 ```
