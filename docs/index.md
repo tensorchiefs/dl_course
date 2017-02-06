@@ -37,7 +37,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>1</td>
       <td> 
-      		<b>Deep learning basics</b> <a ref="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
+      		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
       			<li>Computational graphs, feeding and fetching</li>
@@ -66,7 +66,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>2</td>
       <td> 
-      		<b>Fully connected networks</b> <a ref="">slides</a>
+      		<b>Fully connected networks</b> <a href="https://www.dropbox.com/s/qmfh1ib3dzr50z5/lecture02.pdf?dl=1">slides</a>
       		<ul>
       			<li>Logistic regression</li>
       			<li>Multinomial Logistic Regression</li>
