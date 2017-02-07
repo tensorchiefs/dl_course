@@ -60,6 +60,7 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/stored_models/Loading_Frozen_Graph.ipynb'> Loading_Frozen_Graph.ipynb (Artstyle Transfer)</a> 
       		</li>
+         </ul>
       </td>
     </tr>
 
@@ -108,7 +109,7 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/path_to_fc_nets/fc_MNIST_keras.ipynb'> fc_MNIST_keras.ipynb </a> 
       		</li>
-
+            </ul>
       </td>
     </tr>
 
