@@ -14,15 +14,15 @@ This course in deep learning focuses on practical aspects of deep learning.
 For the hands-on part we provide a docker container ([details and installation instruction](docker.md)).
 
 ## Other resources
-We took inspiration (and figures) from the following resources.
+We took inspiration (and sometimes slides / figures) from the following resources.
 
-* Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
+* Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course.
 
-* Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+* Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/), has additional material and videos of lectures. While the focus is on computer vision, it also treats other topics such as optimization, RNNs. Interesting are  the lecture notes which can be found at [http://cs231n.github.io/](http://cs231n.github.io/).
 
 
 ## Syllabus (subject to change)
-The course is split in 8 sessions, each 4 hours long.
+The course is split in 8 sessions, each 4 hours long. 
 
 
 <table>
@@ -41,13 +41,14 @@ The course is split in 8 sessions, each 4 hours long.
       		<ul>
       			<li>Overview of deep learning</li>
       			<li>Computational graphs, feeding and fetching</li>
-      			<li>Loss function</li>
+      			<li>Loss function (crossentropy)</li>
       			<li>Gradient descent and generalizations</li>
       			<li>Example: linear regression</li>
       		</ul>
       </td>
       <td> 
-      		DL-book chapter 
+        Nature review article<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>(LeCun, Bengio, Hinton, 2015)</a>
+        DL-book chapter 6
       </td>
       <td>
       	<ul>
