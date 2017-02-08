@@ -12,7 +12,7 @@ We provide a docker image [oduerr/tf_docker](https://github.com/oduerr/tf_docker
 In the docker command line execute:
 
 ```
-docker run -p 8080:8888 -p 8081:6006 -it oduerr/tf_docker
+docker run -p 8888:8888 -p 6006:6006 -it oduerr/tf_docker
 ```
 open [http://localhost:8080](http://localhost:8080) or [http://192.168.99.100:8080](http://192.168.99.100:8080)(for windows) in the browser. 
 
@@ -20,7 +20,7 @@ open [http://localhost:8080](http://localhost:8080) or [http://192.168.99.100:80
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
 
 ```
-docker run -p 8700:8888 -p 8701:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/dl_tutorial/ -it oduerr/tf_docker
+docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/dl_tutorial/ -it oduerr/tf_docker
 ```
 
 
@@ -37,7 +37,7 @@ docker pull oduerr/tf_docker
 In case you want to not start the jupyter notebook sever automatically but want a bash shell do:
 
 ```
-docker run -p 8080:8888 -p 8081:6006 -it oduerr/tf_docker bash
+docker run -p 8888:8888 -p 6006:6006 -it oduerr/tf_docker bash
 ```
 
 
