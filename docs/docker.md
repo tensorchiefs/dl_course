@@ -1,11 +1,11 @@
-# How to use the docker container for the couse
+# How to use the docker container for the course
 
 We provide a docker image [oduerr/tf_docker](https://github.com/oduerr/tf_docker) with [Tensorflow](http://www.tensorflow.org) (v0.12.1) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). 
 
 ## Installation of docker
 
 * The official installation guide can be found at: [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
-* In addition we have an instruction for [Windows](https://dl.dropboxusercontent.com/u/9154523/zhaw/how.to.docker-v4.pdf)
+* In addition we have an instruction for [Windows](https://dl.dropboxusercontent.com/u/9154523/zhaw/how.to.docker-v4.pdf) **Currently Not up to date**
 
 
 ## Running the container
@@ -39,6 +39,21 @@ In case you want to not start the jupyter notebook sever automatically but want 
 ```
 docker run -p 8888:8888 -p 6006:6006 -it oduerr/tf_docker bash
 ```
+
+### Local vs Inside container
+The entry before the colon ':' is on the local machine, the one after it inside the container. Examples:
+
+```
+  docker run -p 4242:8888 -it oduerr/tf_docker #4242 is the port on the local machine, 8888 inside the container
+  docker run -v /tmp/dl_tutorial/:/notebooks/dl_tutorial/ #/tmp/dl_tutorial is on local machine
+```
+
+
+
+
+
+
+
 
 
 
