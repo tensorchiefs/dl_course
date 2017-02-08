@@ -117,7 +117,39 @@ The course is split in 8 sessions, each 4 hours long.
 
 
 
-
+    <tr>
+      <td>3</td>
+      <td> 
+      		<b>Gradient Flow and Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
+      		<ul>
+      			<li>Backpropagation and Gradient Flow</li>
+      			<li>Recurrent Neural Networks</li>
+      			<li>Vanishing Gradient Problem</li>
+      			<li>LSTMs</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+          <li>Backpropagation http://cs231n.github.io/optimization-2/</li>
+          <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>
+          <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+          '>(blog post)</a></li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+      			TODO
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
