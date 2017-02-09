@@ -14,7 +14,7 @@ In the docker command line execute:
 ```
 docker run -p 8888:8888 -p 6006:6006 -it oduerr/tf_docker
 ```
-open [http://localhost:8888](http://localhost:8888/?token=tensorchiefs_rulez) or [http://192.168.99.100:8888](http://192.168.99.100:/?token=tensorchiefs_rulez)(for windows) in the browser. 
+open [http://localhost:8888/?token=tensorchiefs_rulez](http://localhost:8888/?token=tensorchiefs_rulez) or [http://localhost:8888/?token=tensorchiefs_rulez](http://192.168.99.100:/?token=tensorchiefs_rulez)(for windows) in the browser. 
 
 ## Running with a linked file system.
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
