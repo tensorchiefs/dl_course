@@ -61,6 +61,12 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/stored_models/Loading_Frozen_Graph.ipynb'> Loading_Frozen_Graph.ipynb (Artstyle Transfer)</a> 
       		</li>
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
+      		</li>
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication.ipynb'> Solution MatrixMultiplication </a> 
+      		</li>
          </ul>
       </td>
     </tr>
