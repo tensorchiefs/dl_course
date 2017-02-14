@@ -52,21 +52,23 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td>
       	<ul>
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/linear_regression/01_LineFit.ipynb'> 01_LineFit.ipynb</a> 
-      		</li>
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/ Mandelbrot.ipynb'> Mandelbrot.ipynb</a> 
-      		</li> 
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/stored_models/Loading_Frozen_Graph.ipynb'> Loading_Frozen_Graph.ipynb (Artstyle Transfer)</a> 
-      		</li>
-			<li>
+		<li>
       			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
       		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication.ipynb'> Solution MatrixMultiplication </a> 
       		</li>
+	
+      		<li>
+      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/linear_regression/01_LineFit.ipynb'> 01_LineFit.ipynb</a> 
+      		</li>
+      		<li>
+      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/ Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
+      		</li> 
+      		<li>
+      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/stored_models/Loading_Frozen_Graph.ipynb'> Homework: Loading_Frozen_Graph.ipynb (Artstyle Transfer)</a> 
+      		</li>
+			
          </ul>
       </td>
     </tr>
