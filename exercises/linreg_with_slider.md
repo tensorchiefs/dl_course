@@ -6,7 +6,7 @@ b) Run the next two cells and feed your adjusted parameters through the graph. Y
 
 c) Now let TensorFlow optimize the parameters in cell 7. Modify cell 7 with the right feeding data.  
 
-Hint: Look at learning rate
+Hint: Look at the learning rate
 
 d) Draw the linreg graph and compare your graph with the Tensorboard graph.
 
