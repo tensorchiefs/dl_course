@@ -20,7 +20,7 @@ open [http://localhost:8888/?token=tensorchiefs](http://localhost:8888/?token=te
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
 
 ```
-docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/dl_tutorial/ -it oduerr/tf_docker
+docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/ -it oduerr/tf_docker
 ```
 
 
