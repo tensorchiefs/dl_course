@@ -56,7 +56,14 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
       		</li>
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication.ipynb'> Solution MatrixMultiplication </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
+      		</li>
+		<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/exercises/linreg_with_slider.md'> Exercise LinearRegression
+ </a> 
+      		</li>
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
       		</li>
 	
       		<li>
