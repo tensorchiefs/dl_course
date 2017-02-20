@@ -69,7 +69,10 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
       		</li> 
       		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/stored_models/Loading_Frozen_Graph.ipynb'> Homework: Loading_Frozen_Graph.ipynb (Artstyle Transfer)</a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises'> Homework: Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
+      		</li>
+      		<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Loading_Frozen_Graph_solution.ipynb'> Homework: Solution Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
       		</li>
 			
          </ul>
