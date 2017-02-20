@@ -65,10 +65,6 @@ The course is split in 8 sessions, each 4 hours long.
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
       		</li>
-	
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/linear_regression/01_LineFit.ipynb'> 01_LineFit.ipynb</a> 
-      		</li>
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
       		</li> 
