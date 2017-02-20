@@ -1,4 +1,4 @@
-## First Task in TensorFlow
+## Matrix Multiplication in TensorFlow
 
 a) Open the notebook [MatrixMultiplication](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication.ipynb) and visualize the computational graph in TensorBoard
 
