@@ -47,8 +47,18 @@ The course is split in 8 sessions, each 4 hours long.
       		</ul>
       </td>
       <td> 
-        Nature review article<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>(LeCun, Bengio, Hinton, 2015)</a>
+      	<ul>
+        <li>
+	Nature review article<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>(LeCun, Bengio, Hinton, 2015)</a>
+	</li>
+	<li>
         DL-book chapter 6
+	</li>
+	<li>
+	<a href="https://www.tensorflow.org/get_started/get_started">TensorFlow Intro</a>
+	</li>
+	
+	</ul>
       </td>
       <td>
       	<ul>
