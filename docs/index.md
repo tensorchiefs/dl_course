@@ -97,13 +97,6 @@ The course is split in 8 sessions, each 4 hours long.
       			<li>Logistic regression</li>
       			<li>Multinomial Logistic Regression</li>
       			<li>Fully Connected networks</li>
-      			<li>Regularization:
-      				<ul>
-      					<li>Early stopping</li>
-      					<li>L2 (Weight Decay)</li>
-      					<li>Dropout</li>
-      				</ul>
-      			</li>
       		</ul>
       </td>
       <td> 
@@ -144,9 +137,43 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>3</td>
       <td> 
-      		<b>Gradient Flow and Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
+      		<b>Tricks of the trade</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
-      			<li>Backpropagation and Gradient Flow</li>
+      			<li>Regularization:
+      				<ul>
+      					<li>Early stopping</li>
+      					<li>L2 (Weight Decay)</li>
+      					<li>Dropout</li>
+      				</ul>
+      			</li>
+			<li>Backpropagation and Gradient Flow</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+          <li>Backpropagation http://cs231n.github.io/optimization-2/</li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+      			TODO
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
+    <!---- Woche -->
+     <tr>
+      <td>7</td>
+      <td> 
+      		<b>Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
+      		<ul>
       			<li>Recurrent Neural Networks</li>
       			<li>Vanishing Gradient Problem</li>
       			<li>LSTMs</li>
@@ -154,7 +181,6 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-          <li>Backpropagation http://cs231n.github.io/optimization-2/</li>
           <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>
           <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
           '>(blog post)</a></li>
@@ -174,6 +200,9 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
+    
+    
+    
   </tbody>
 </table>
 
