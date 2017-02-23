@@ -168,13 +168,13 @@ The course is split in 8 sessions, each 4 hours long.
       		<ul>
       			<li>CNNs:
       				<ul>
-      					<li>What is convolution</li>
+      					<li>What is convolution?</li>
       					<li>Feature/activation maps</li>
       					<li>Training of a CNN</li>
 					<li>Typical CNN architectures</li>
       				</ul>
       			</li>
-			<li>CNN</li>
+			<li>CNN in action</li>
       		</ul>
       </td>
       <td> 
