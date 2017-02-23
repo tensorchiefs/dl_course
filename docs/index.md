@@ -157,6 +157,48 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
+    
+    
+    
+
+    <tr>
+      <td>3</td>
+      <td> 
+      		<b>Convolutional Neural Networks</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<ul>
+      			<li>CNNs:
+      				<ul>
+      					<li>What is convolution</li>
+      					<li>Feature/activation maps</li>
+      					<li>Training of a CNN</li>
+					<li>Typical CNN architectures</li>
+      				</ul>
+      			</li>
+			<li>CNN</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+          <li>Convolution: https://github.com/vdumoulin/conv_arithmetic/</li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+      			TODO
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
+
+    
+    
     <!---- Woche -->
      <tr>
       <td>7</td>
