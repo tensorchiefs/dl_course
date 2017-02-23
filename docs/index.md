@@ -105,7 +105,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-      			<a href='excercises/tf_playgound_day2.md'> TF-playground</a> 
+      			<a href='exercises/tf_playgound_day2.md'> TF-playground</a> 
       		</li>
       		
       		<li>
