@@ -20,6 +20,8 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/), has additional material and [youtube videos of the lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). While the focus is on computer vision, it also treats other topics such as optimization, backpropagation and RNNs. LKecture notes can be found at [http://cs231n.github.io/](http://cs231n.github.io/).
 
+* More TensorFlow examples can be found at [dl_tutorial](https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/) 
+
 
 ## Syllabus (subject to change)
 The course is split in 8 sessions, each 4 hours long. 
