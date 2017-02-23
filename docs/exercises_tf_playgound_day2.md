@@ -1,4 +1,4 @@
-# Playground 
+# Playground (Logistic Regression --> Fully Connected)
 From logistic regression to fully connected networks.
 
 ## Logistic Regression
@@ -12,7 +12,7 @@ b) Start learning with a learning rate 10 what happens?
 c) Change learning rate to sensible values. Why does the success depends on the learning rate?
 
 
-## Neural Networks with hiddem units
+## Neural Networks with hidden units
 <!--- Linear Seperation -->
 a) Open the [playground](http://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=5&networkShape=&seed=0.07296&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&problem_hide=true&batchSize_hide=true&dataset_hide=true&percTrainData_hide=true&regularizationRate_hide=true&learningRate_hide=true&discretize_hide=true&activation_hide=true&regularization_hide=true). Train the network with zero hidden layers (what do you observe), know increase the number of hidden layers to 1 (what do you see?).
 
