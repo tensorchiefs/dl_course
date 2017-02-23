@@ -22,6 +22,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * More TensorFlow examples can be found at [dl_tutorial](https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/) 
 
+* Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
 ## Syllabus (subject to change)
 The course is split in 8 sessions, each 4 hours long. 
