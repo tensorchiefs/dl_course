@@ -27,13 +27,16 @@ We took inspiration (and sometimes slides / figures) from the following resource
 ## Syllabus (subject to change)
 The course is split in 8 sessions, each 4 hours long. 
 
+
 <table class="zebra" style="max-width:300px;">
-    <tr>
-      <th style="text-align: left;" width="20">Day</th>
-      <th style="text-align: center;" width="80">Topic & slides</th>
-      <th style="text-align: center;" width="70">Additional Material</th></tr>  <tbody>
-      <th style="text-align: center;" width="80">Exercises & homework</th></tr>  <tbody>
-    <tr>
+  <thead>
+  <tr>
+      <th style="text-align: left;" width="5">Day</th>
+      <th style="text-align: left;" width="70">Topic and slides</th>
+      <th style="text-align: left;" width="70">Additional Material</th>
+      <th style="text-align: left;" width="70">Exercises and homework</th></tr>
+  </thead>
+
       <td>1</td>
       <td> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
