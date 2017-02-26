@@ -28,13 +28,13 @@ We took inspiration (and sometimes slides / figures) from the following resource
 The course is split in 8 sessions, each 4 hours long. 
 
 
-<table class="zebra" style="max-width:1200px;">
+<table class="zebra" style="max-width:2200px;">
   <thead>
   <tr>
       <th style="text-align: left;" width="5">Day</th>
-      <th style="text-align: left;" width="150">Topic and slides</th>
+      <th style="text-align: left;" width="250">Topic and slides</th>
       <th style="text-align: left;" width="150">Additional Material</th>
-      <th style="text-align: left;" width="150">Exercises and homework</th></tr>
+      <th style="text-align: left;" width="250">Exercises and homework</th></tr>
   </thead>
 
       <td>1</td>
