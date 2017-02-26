@@ -28,16 +28,16 @@ We took inspiration (and sometimes slides / figures) from the following resource
 The course is split in 8 sessions, each 4 hours long. 
 
 
-<table class="zebra" style="max-width:800px;">
+<table class="zebra" style="max-width:900px;">
   <tr>
       <th style="text-align: left;" width="5">Day</th>
-      <th style="text-align: left;" width="200">Topic and slides</th>
+      <th style="text-align: left;" width="350">Topic and slides</th>
       <th style="text-align: left;" width="200">Additional Material</th>
       <th style="text-align: left;" width="200">Exercises and homework</th></tr>
 
 
       <td style="text-align: left;" width="5">1</td>
-      <td style="text-align: left;" width="200"> 
+      <td style="text-align: left;" width="350"> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
