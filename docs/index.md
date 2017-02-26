@@ -32,13 +32,13 @@ The course is split in 8 sessions, each 4 hours long.
   <thead>
   <tr>
       <th style="text-align: left;" width="5">Day</th>
-      <th style="text-align: left;" width="250">Topic and slides</th>
+      <th style="text-align: left;" width="200">Topic and slides</th>
       <th style="text-align: left;" width="150">Additional Material</th>
       <th style="text-align: left;" width="250">Exercises and homework</th></tr>
   </thead>
 
       <td style="text-align: left;" width="5">1</td>
-      <td style="text-align: left;" width="250"> 
+      <td style="text-align: left;" width="200"> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
@@ -166,7 +166,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>4</td>
       <td> 
-      		<b>Convolutional Neural Networks</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<b>Convolutional Neural Networks I</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
       			<li>CNNs:
       				<ul>
@@ -201,7 +201,44 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
     </tr>
 
-    
+    <tr>
+      <td>5</td>
+      <td> 
+      		<b>Convolutional Neural Networks II</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<ul>
+      			<li>CNNs:
+      				<ul>
+      					<li>Typical CNN architectures</li>
+      					<li>Use pretrained nets for fine-tuning or feature generator</li>
+      					<li>Understand CNN models</li>
+      				</ul>
+      			</li>
+
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+		<li>
+	TODO
+	</li>
+
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+      			TODO
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
+   
     
     <!---- Woche -->
      <tr>
