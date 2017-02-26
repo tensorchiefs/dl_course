@@ -37,8 +37,8 @@ The course is split in 8 sessions, each 4 hours long.
       <th style="text-align: left;" width="250">Exercises and homework</th></tr>
   </thead>
 
-      <td>1</td>
-      <td> 
+      <td style="text-align: left;" width="5">1</td>
+      <td style="text-align: left;" width="250"> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
@@ -48,7 +48,8 @@ The course is split in 8 sessions, each 4 hours long.
       			<li>Example: linear regression</li>
       		</ul>
       </td>
-      <td> 
+      
+      <td style="text-align: left;" width="150"> 
       	<ul>
         <li>
 	Nature review article<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>(LeCun, Bengio, Hinton, 2015)</a>
@@ -62,7 +63,8 @@ The course is split in 8 sessions, each 4 hours long.
 	
 	</ul>
       </td>
-      <td>
+      
+      <td style="text-align: left;" width="250">
       	<ul>
 		<li>
       			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
