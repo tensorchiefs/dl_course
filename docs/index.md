@@ -28,7 +28,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 The course is split in 8 sessions, each 4 hours long. 
 
 
-<table class="zebra" style="max-width:500px;">
+<table class="zebra" style="max-width:1200px;">
   <thead>
   <tr>
       <th style="text-align: left;" width="5">Day</th>
