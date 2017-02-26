@@ -180,7 +180,10 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-          <li>Convolution: https://github.com/vdumoulin/conv_arithmetic/</li>
+		<li>
+	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
+	</li>
+
         </ul>
       </td>
       <td>
