@@ -32,13 +32,13 @@ The course is split in 8 sessions, each 4 hours long.
   <thead>
   <tr>
       <th style="text-align: left;" width="5">Day</th>
-      <th style="text-align: left;" width="200">Topic and slides</th>
-      <th style="text-align: left;" width="150">Additional Material</th>
-      <th style="text-align: left;" width="250">Exercises and homework</th></tr>
+      <th style="text-align: left;" width="1700">Topic and slides</th>
+      <th style="text-align: left;" width="120">Additional Material</th>
+      <th style="text-align: left;" width="170">Exercises and homework</th></tr>
   </thead>
 
       <td style="text-align: left;" width="5">1</td>
-      <td style="text-align: left;" width="200"> 
+      <td style="text-align: left;" width="170"> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
@@ -49,7 +49,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</ul>
       </td>
       
-      <td style="text-align: left;" width="150"> 
+      <td style="text-align: left;" width="120"> 
       	<ul>
         <li>
 	Nature review article<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>(LeCun, Bengio, Hinton, 2015)</a>
@@ -64,7 +64,7 @@ The course is split in 8 sessions, each 4 hours long.
 	</ul>
       </td>
       
-      <td style="text-align: left;" width="250">
+      <td style="text-align: left;" width="170">
       	<ul>
 		<li>
       			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
@@ -92,7 +92,9 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-
+    
+    <!---- Woche -->
+    
     <tr>
       <td>2</td>
       <td> 
@@ -123,7 +125,7 @@ The course is split in 8 sessions, each 4 hours long.
     </tr>
 
 
-
+    <!---- Woche -->
 
     <tr>
       <td>3</td>
@@ -159,16 +161,14 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-    
-    
-    
-
+       
+    <!---- Woche -->
     <tr>
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
-      			<li>CNNs:
+      			<li>Introduction of CNNs:
       				<ul>
       					<li>What is convolution?</li>
       					<li>Feature/activation maps</li>
@@ -200,20 +200,15 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-
+    <!---- Woche -->
     <tr>
       <td>5</td>
       <td> 
       		<b>Convolutional Neural Networks II</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
-      			<li>CNNs:
-      				<ul>
-      					<li>Typical CNN architectures</li>
+   					<li>Typical CNN architectures</li>
       					<li>Use pretrained nets for fine-tuning or feature generator</li>
-      					<li>Understand CNN models</li>
-      				</ul>
-      			</li>
-
+      					<li>Understand CNN features</li>
       		</ul>
       </td>
       <td> 
@@ -238,7 +233,40 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-   
+    <!---- Woche -->
+    <tr>
+      <td>6</td>
+      <td> 
+      		<b>Convolutional Neural Networks III</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<ul>
+   					<li>unsupervised learning, Autoencoder</li>
+      					<li>semi-supervised learning</li>
+      					<li>TODO</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+		<li>
+	TODO
+	</li>
+
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+      			TODO
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
+
     
     <!---- Woche -->
      <tr>
