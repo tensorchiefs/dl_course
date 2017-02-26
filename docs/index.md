@@ -28,16 +28,16 @@ We took inspiration (and sometimes slides / figures) from the following resource
 The course is split in 8 sessions, each 4 hours long. 
 
 
-<table class="zebra" style="max-width:2200px;">
+<table class="zebra" style="max-width:800px;">
   <tr>
       <th style="text-align: left;" width="5">Day</th>
-      <th style="text-align: left;" width="1700">Topic and slides</th>
-      <th style="text-align: left;" width="120">Additional Material</th>
-      <th style="text-align: left;" width="170">Exercises and homework</th></tr>
+      <th style="text-align: left;" width="200">Topic and slides</th>
+      <th style="text-align: left;" width="200">Additional Material</th>
+      <th style="text-align: left;" width="200">Exercises and homework</th></tr>
 
 
       <td style="text-align: left;" width="5">1</td>
-      <td style="text-align: left;" width="170"> 
+      <td style="text-align: left;" width="200"> 
       		<b>Deep learning basics</b> <a href="https://www.dropbox.com/s/bvgd0wsp0zkgjm0/lecture01.pdf?dl=1">slides</a>
       		<ul>
       			<li>Overview of deep learning</li>
@@ -48,7 +48,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</ul>
       </td>
       
-      <td style="text-align: left;" width="120"> 
+      <td style="text-align: left;" width="200"> 
       	<ul>
         <li>
 	<a href='http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html'>Nature review article</a>
@@ -63,7 +63,7 @@ The course is split in 8 sessions, each 4 hours long.
 	</ul>
       </td>
       
-      <td style="text-align: left;" width="170">
+      <td style="text-align: left;" width="200">
       	<ul>
 		<li>
       			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
