@@ -27,16 +27,12 @@ We took inspiration (and sometimes slides / figures) from the following resource
 ## Syllabus (subject to change)
 The course is split in 8 sessions, each 4 hours long. 
 
-
-<table>
-  <tbody>
+<table class="zebra" style="max-width:300px;">
     <tr>
-      <th align="left">Day</th>
-      <th align="left">Topic</th>
-      <th align="right">Additional Material</th>
-      <th align="right">Exercises and homework</th>
-    </tr>
-    
+      <th style="text-align: left;" width="20">Day</th>
+      <th style="text-align: center;" width="80">Topic & slides</th>
+      <th style="text-align: center;" width="70">Additional Material</th></tr>  <tbody>
+      <th style="text-align: center;" width="80">Exercises & homework</th></tr>  <tbody>
     <tr>
       <td>1</td>
       <td> 
@@ -163,7 +159,7 @@ The course is split in 8 sessions, each 4 hours long.
     
 
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
@@ -171,8 +167,7 @@ The course is split in 8 sessions, each 4 hours long.
       				<ul>
       					<li>What is convolution?</li>
       					<li>Feature/activation maps</li>
-      					<li>Training of a CNN</li>
-					<li>Typical CNN architectures</li>
+      					<li>How to train a CNN</li>
       				</ul>
       			</li>
 			<li>CNN in action</li>
