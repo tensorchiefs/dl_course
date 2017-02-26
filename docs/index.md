@@ -29,13 +29,12 @@ The course is split in 8 sessions, each 4 hours long.
 
 
 <table class="zebra" style="max-width:2200px;">
-  <thead>
   <tr>
       <th style="text-align: left;" width="5">Day</th>
       <th style="text-align: left;" width="1700">Topic and slides</th>
       <th style="text-align: left;" width="120">Additional Material</th>
       <th style="text-align: left;" width="170">Exercises and homework</th></tr>
-  </thead>
+
 
       <td style="text-align: left;" width="5">1</td>
       <td style="text-align: left;" width="170"> 
