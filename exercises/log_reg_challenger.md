@@ -1,15 +1,18 @@
 ## Logistic regression in TensorFlow
 
-a) Open the notebook [log_reg_challenger](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/log_reg_challenger.ipynb) and run the fist 3 cells. 
-We predict the the probability $p(y_i=1 | x_i)$ with the formula:
+a) Open the notebook [log_reg_challenger](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/log_reg_challenger.ipynb). In this notebook
+we use (binary) logistic regression to predict the probability for an O-ring to show a damage
+$(y=1)$ by using the temperature during take-off as predictor $x$.
 $$p(y_i=1 | x_i) = \frac{e^{(b + W' x_i)}}{1 + e^{(b + W' x_i)}} = \frac{1}{1 + e^{-(b + W' x_i)}}$$
-Look at the predicted $p(y_i=1 | x_i)$ values with our given start parameters $W=-0.2$ and $b=20$. What do you observe? 
+Determine the predicted $p(y_i=1 | x_i)$ values when using the parameters $W=-0.2$ and $b=20$. What do you observe?
 
-b) Now lets try to find better values for $W$ and $b$. Lets assume $W$ is given with $-1$. We want our probability $p(y_i=1 | x_i)$ to be $0.5$. What is the
-value for $b$ in this case.  
-Hint: at which $x$ value should $p(y_i=1 | x_i)$ be $0.5$, look at the data. $1 + e^{-(b + W' x_i)}$ must be $2$.
+b) Now lets try to find better values for $W$ and $b$. Lets assume $W$ is given with $-1$. We want the probability
+for a damage $p(y_i=1 | x_i)$ to be $0.5$.  
+Determine an appropriate value for $b$.  
+Hint: at which $x$ value should $p(y_i=1 | x_i)$ be $0.5$, look at the data. At this $x$ value the term $1 + e^{-(b + W' x_i)}$ must be $2$.
 
-c) Run the TensorFlow forward pass in cell 5 and optimize the values for $W$ and $b$ in cell 6.  
-Fetch the loss, W and b and print the final values.  
+c) Now we want to optimize the parameter values by using the gradient descent
+method. Run the TensorFlow forward pass in cell 5 and optimize the values for $W$ and $b$ in cell 6.  
+Fetch the loss, $W$ and $b$ and print the final values.  
 Hint: You can't use the same names for the results of your fetches as you have used for the TensorFlow graph. See cell 5.
  
