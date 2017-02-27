@@ -112,13 +112,20 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
       		</li>
+		<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/log_reg_challenger.md'> Exercise Logistic Regression Challenger </a> 
+      		</li>
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
+      		</li>
       		
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/path_to_fc_nets/Multinomial%20Logistic%20Regression.ipynb'> Multinomial Logistic Regression.ipynb </a> 
+    		<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/Multinomial_Logistic_Regression.md'> Exercise Multinomial Logistic Regression MNIST </a> 
       		</li>
-      		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/path_to_fc_nets/fcn_MNIST.ipynb'> fcn_MNIST.ipynb </a> 
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
       		</li>
+
       		</ul>
       </td>
     </tr>
