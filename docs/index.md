@@ -125,6 +125,14 @@ The course is split in 8 sessions, each 4 hours long.
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
       		</li>
+		
+		<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/fcn_MNIST.md'> Exercise Fully Connected network MNIST </a> 
+      		</li>
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/fcn_MNIST_solution.ipynb'> Solution Fully Connected network MNIST  </a> 
+      		</li>
+		
 
       		</ul>
       </td>
