@@ -9,6 +9,8 @@ $z=x*w+b$
 
 c) Run the next two cells to store the graph and do a forward pass of the untrained network, look at the probability for each class of some examples.
 
-c) Now lets train the model. We use a mini-batch size of 128 and use the fist 2400 examples for training.  
+d) Now lets train the model. We use a mini-batch size of 128 and use the fist 2400 examples for training.  
 The validation set will be the examples from 2400 to 3000. Write the code to get the loss and the probabilities of your validation set.
 Run the last cells to check the performance of the model and to get the probability of a random example of the validation set.
+
+e) How many parameters do we have?
