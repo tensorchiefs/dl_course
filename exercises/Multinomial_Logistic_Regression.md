@@ -13,4 +13,7 @@ d) Now lets train the model. We use a mini-batch size of 128 and use the fist 24
 The validation set will be the examples from 2400 to 3000. Write the code to get the loss and the probabilities of your validation set.
 Run the last cells to check the performance of the model and to get the probability of a random example of the validation set.
 
-e) Additional Questions: How many parameters do we have? Compare the loss of the validation set against the loss of the training set. Why do you think that there is such a great difference.
+e) Additional Questions: 
+  * How many parameters do we have? 
+  * Compare the loss of the validation set against the loss of the training set. Why do you think that there is such a great difference.
+  * Do you understand how the loss is calculated `loss = tf.reduce_mean(-tf.reduce_sum(y_true * tf.log(prob), reduction_indices=[1]))`
