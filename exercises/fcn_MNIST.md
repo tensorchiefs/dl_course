@@ -1,4 +1,4 @@
-## Multinomial Logistic Regression on MNIST dataset
+## Fully connected neural network on MNIST dataset
 
 a) Open the notebook [fcn_MNIST.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/fcn_MNIST.ipynb).
 In this notebook we use a fully connected neural network to predict the handwritten digits of the MNIST dataset.  
