@@ -66,24 +66,19 @@ The course is split in 8 sessions, each 4 hours long.
       <td style="text-align: left;" width="200">
       	<ul>
 		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/tf_matrix_mult.md'> Exercise MatrixMultiplication </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day1.pdf'> Exercises day1 </a> 
       		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
       		</li>
-		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/exercises/linreg_with_slider.md'> Exercise LinearRegression
- </a> 
-      		</li>
+
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
       		</li>
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
       		</li> 
-      		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/Loading_Frozen_Graph.md'> Homework: Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
-      		</li>
+ 
       		<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Loading_Frozen_Graph_solution.ipynb'> Homework: Solution Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
       		</li>
@@ -113,22 +108,16 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
       		</li>
 		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/log_reg_challenger.md'> Exercise Logistic Regression Challenger </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day2.pdf'> Exercises day2  </a> 
       		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
       		</li>
       		
-    		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/Multinomial_Logistic_Regression.md'> Exercise Multinomial Logistic Regression MNIST </a> 
-      		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
       		</li>
 		
-		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/fcn_MNIST.md'> Exercise Fully Connected network MNIST </a> 
-      		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/fcn_MNIST_solution.ipynb'> Solution Fully Connected network MNIST  </a> 
       		</li>
