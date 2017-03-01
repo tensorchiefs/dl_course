@@ -237,9 +237,10 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>6</td>
       <td> 
-      		<b>Convolutional Neural Networks III</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<b>Un- and Semi-supervised Learning</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
-   					<li>unsupervised learning, Autoencoder</li>
+   					<li>Autoencoder</li>
+					<li>denoising Autoencoder</li>
       					<li>semi-supervised learning</li>
       					<li>TODO</li>
       		</ul>
@@ -303,7 +304,7 @@ The course is split in 8 sessions, each 4 hours long.
     
     
     
-  </tbody>
+ 
 </table>
 
 
