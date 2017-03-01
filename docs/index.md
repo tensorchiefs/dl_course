@@ -1,11 +1,3 @@
-<head>
-<style>
-table, th, td {
-    border: 0.5px solid black;
-    vertical-align: top;
-}
-</style>
-</head>
 
 # Deep Learning (CAS machine intelligence) 
 
