@@ -5,7 +5,8 @@ We provide a docker image [oduerr/tf_docker:tf1_py3](https://github.com/oduerr/t
 ## Installation of docker
 
 * The official installation guide can be found at: [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
-* In addition we have an instruction for [Windows](https://dl.dropboxusercontent.com/u/9154523/zhaw/how.to.docker-v4.pdf) **Currently Not up to date**
+* For hints how to use docker on Windows see [here](https://www.dropbox.com/home/DAS_DL_shared/formalia?preview=how.to.use.docker.on.windows-after.installation.pdf)
+* In case that the docker installation does not work we have an addition installation guide for inalling Tensorflow directly on [Windows](https://www.dropbox.com/home/DAS_DL_shared/formalia?preview=install-tensorflow-directly-on-Windows.pdf).
 
 
 ## Running the container
