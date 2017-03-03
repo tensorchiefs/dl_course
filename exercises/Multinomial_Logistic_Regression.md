@@ -1,6 +1,6 @@
 ## Multinomial Logistic Regression on MNIST dataset
 
-a) Open the notebook [Multinomial Logistic Regression](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Multinomial_Logistic_Regression.ipynb).
+a) Open the notebook [Multinomial Logistic Regression](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/05_Multinomial_Logistic_Regression.ipynb).
 In this notebook we use multinomial logistic regression to predict the handwritten digits of the MNIST dataset.  
 We have 4000 examples with 784 pixel values and 10 classes. Run the fist 3 cells and explain the one-hot-encoding. In TensorFlow we need to use one-hot-encoding. 
 

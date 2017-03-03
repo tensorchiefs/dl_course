@@ -1,0 +1,24 @@
+<h2 id="matrix-multiplication-in-tensorflow">Matrix Multiplication in TensorFlow</h2>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb">MatrixMultiplication</a> and visualize the computational graph in TensorBoard<br />
+Hint: run all cells in the jupyter notebook and then open a terminal and type: tensorboard --logdir=path/to/log-directory or run tensorboard from the notebook with: !tensorboard --logdir=path/to/log-directory</p></li>
+<li><p>Change the code in the notebook that it divides the matrix multiplication by 10 instead of multiplying it with 10. Compare the numpy and tensorflow restults. What do you observe?</p></li>
+<li><p>Now use a placeholder for m2 to feed-in values. You must specify the shape of the m2 matrix (rows, columns).</p></li>
+</ol>
+<h2 id="linear-regression-in-tensorflow">Linear regression in TensorFlow</h2>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_sliderLinreg_with_slider.ipynb">Linreg_with_slider</a> and run the fist 4 cells and try to minimize the loss by adjusting the parameters a and b.</p></li>
+<li><p>Run the next two cells and feed your adjusted parameters through the graph. You have to modify cell 6 a bit.</p></li>
+<li><p>Now let TensorFlow optimize the parameters in cell 7. Modify cell 7 with the right feeding data.<br />
+Hint: Look at the learning rate</p></li>
+<li><p>Draw the linreg graph and compare your graph with the Tensorboard graph.</p></li>
+</ol>
+<h2 id="loading-frozen-graph">Loading Frozen Graph</h2>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph.ipynb">Loading_Frozen_Graph</a> and run the fist 2 cells to load the &quot;art style transfer&quot; graph.</p></li>
+<li><p>Now read in an image of yourself or some random image(cat, dog, etc.). Replace &quot;bigstock-Standard-Poodle-7733433.jpg&quot; with the name of your image.</p></li>
+<li><p>Visualize the graph in Tensorboard. Look at the names of the nodes.</p></li>
+<li><p>Modify cell 10 with the right name of the input node and feed your image through the graph.<br />
+Hint: TensorFlow names operation with n tensor outputs by default &quot;op_name:0&quot;, &quot;op_name:1&quot;, ... &quot;op_name:n-1&quot;</p></li>
+<li><p>Optional: Real time art transfer. Write a loop that takes images with your webcam and feeds the images through the graph.</p></li>
+</ol>
