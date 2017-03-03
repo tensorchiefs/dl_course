@@ -99,8 +99,8 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
       		</li>
-		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day2.html'> Exercises day2  </a> 
+		<li>		
+      			<a href='http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/day2.html'> Exercises day2  </a> 
       		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/04_log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
