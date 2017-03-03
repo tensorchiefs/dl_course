@@ -58,21 +58,21 @@ The course is split in 8 sessions, each 4 hours long.
       <td style="text-align: left;" width="200">
       	<ul>
 		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day1.pdf'> Exercises day1 </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day1.html'> Exercises day1 </a> 
       		</li>
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
       		</li>
 
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
       		</li>
       		<li>
       			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
       		</li> 
  
       		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Loading_Frozen_Graph_solution.ipynb'> Homework: Solution Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph_solution.ipynb'> Homework: Solution Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
       		</li>
 			
          </ul>
@@ -100,20 +100,17 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
       		</li>
 		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day2.pdf'> Exercises day2  </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day2.html'> Exercises day2  </a> 
       		</li>
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/04_log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
       		</li>
       		
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/05_Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
       		</li>
 		
-			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/fcn_MNIST_solution.ipynb'> Solution Fully Connected network MNIST  </a> 
-      		</li>
-		
+
 
       		</ul>
       </td>
@@ -145,9 +142,10 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td>
       	<ul>
-      		<li>
-      			TODO
+			<li>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected network MNIST  </a> 
       		</li>
+		
       		<li>
       			 TODO
       		</li> 
