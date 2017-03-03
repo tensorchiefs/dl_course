@@ -58,7 +58,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td style="text-align: left;" width="200">
       	<ul>
 		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/tree/master/exercises/day1.html'> Exercises day1 </a> 
+      			<a href='http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/day1.html'> Exercises day1 </a> 
       		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
