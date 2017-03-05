@@ -174,7 +174,7 @@ The course is split in 8 sessions, each 4 hours long.
 	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
 	</li>
 	<li>
-		<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
 	</li>
         </ul>
       </td>
@@ -208,6 +208,10 @@ The course is split in 8 sessions, each 4 hours long.
 		<li>
 	TODO
 	</li>
+	<li>
+	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
+	</li>
+	
 
         </ul>
       </td>
