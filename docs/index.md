@@ -173,7 +173,9 @@ The course is split in 8 sessions, each 4 hours long.
 		<li>
 	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
 	</li>
-
+	<li>
+		<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	</li>
         </ul>
       </td>
       <td>
