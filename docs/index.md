@@ -165,7 +165,7 @@ The course is split in 8 sessions, each 4 hours long.
       			<li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>
       			<li>Feature/activation maps</li>
-      			<li>Builing a CNN</li>
+      			<li>Building a CNN</li>
       		</ul>
       </td>
       <td> 
