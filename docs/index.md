@@ -84,14 +84,14 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>2</td>
       <td> 
-      		<b>Fully connected networks</b> <a href="https://www.dropbox.com/s/qmfh1ib3dzr50z5/lecture02.pdf?dl=1">slides</a>
+      		<b>Multinomial Logistic Regression</b> <a href="https://www.dropbox.com/s/qmfh1ib3dzr50z5/lecture02.pdf?dl=1">slides</a>
       		<ul>
       			<li>Logistic regression</li>
       			<li>Multinomial Logistic Regression</li>
       		</ul>
       </td>
       <td> 
-      		DL-book chapter 6,7
+      		DL-book chapter 6
       </td>
       <td>
       	<ul>
@@ -121,7 +121,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>3</td>
       <td> 
-		<b>Tricks of the trade</b> <a href="XXX?dl=1">slides (TODO)</a>
+		<b>Going Deeper / Tricks of the trade</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
 			<li>Fully connected network</li>
 			<li>Backpropagation and Gradient Flow</li>
@@ -138,8 +138,8 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-          <li>
-	  <a href='http://cs231n.github.io/optimization-2/'> Backpropagation </a>  </li>
+          <li> <a href='http://cs231n.github.io/optimization-2/'> Backpropagation </a>  </li>
+	  <li> DL-book chapter 7 (for regularization)</li>
         </ul>
       </td>
       <td>
