@@ -1,0 +1,52 @@
+<h2 id="fully-connected-neural-network-on-mnist-dataset">Fully connected neural network on MNIST dataset</h2>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST.ipynb">fcn_MNIST.ipynb</a>. In this notebook we use a fully connected neural network to predict the handwritten digits of the MNIST dataset.<br />
+We have 4000 examples with 784 pixel values and 10 classes. Run the fist 3 cells.</p></li>
+<li><p>Write the missing TensorFlow code in cell 4 for the first hidden layer.</p></li>
+<li><p>Run the next two cells to store the graph and do a forward pass of the untrained network. Have a look at the network.</p></li>
+<li><p>Now lets train the model. Finish the code to calculate the loss and accuracy for the validation set.</p></li>
+</ol>
+<h2 id="fully-connected-neural-network-on-mnist-dataset-tricks">Fully connected neural network on MNIST dataset (Tricks)</h2>
+<p>Note for docker users.</p>
+<ul>
+<li>In this notebook we create different runs so it might be beneficial to save them also outside the docker container. This is possible using the -v option when starting docker.</li>
+</ul>
+<pre><code>docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_course/:/notebooks/ -it oduerr/tf_docker:tf1_py3 </code></pre>
+<ul>
+<li>If you experience crashes of the docker container do a two step procedure. First start docker in bash.</li>
+</ul>
+<pre><code>docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_course/:/notebooks/ -it oduerr/tf_docker:tf1_py3 bash</code></pre>
+<p>Then start the jupyter notebook in the console with</p>
+<pre><code>jupyter notebook --NotebookApp.token=tensorchiefs</code></pre>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST_keras.ipynb">fcn_MNIST_keras</a> and run the first model (execute the cell after training) and visualize the result in TensorBoard (have a look at learning curves and the histograms / distributions of the weights)</p></li>
+<li><p>Remove the <code>init='zero'</code> argument of the dense layers, to have a proper internalization of your weights. Change the name from <code>name = 'sigmoid_init0'</code> to <code>name = 'sigmoid'</code>. Restart the kernel and repeat the training as in a). Compare the results in TensorBoard, describe your results.</p></li>
+<li><p>Change the activations / non-linearities from <code>Activation('sigmoid')</code> to <code>Activation('relu')</code> and change the name from <code>name = 'sigmoid'</code> to <code>name = 'relu'</code>. Continue as above, especially have a look at the validation loss do you observe overfitting.</p></li>
+<li><p>Add a dropout layer: Now add a dropout layer <code>model.add(Dropout(0.3))</code> between the Dense-Layer and the Activation. Change the name from <code>name = 'relu'</code> to <code>name = 'dropout'</code>.</p></li>
+<li><p>Add a batch-normalization: Now add a batch-norm layer <code>model.add(BatchNormalization())</code> between the Dense-Layer and the Dropout. Change the name from <code>name = 'dropout'</code> to <code>name = 'batch_dropout'</code>. Continue as above</p></li>
+</ol>
+<p>The network should look like:</p>
+<pre><code>____________________________________________________________________________________________________
+Layer (type)                     Output Shape          Param #     Connected to                     
+====================================================================================================
+dense_1 (Dense)                  (None, 500)           392500      dense_input_1[0][0]              
+____________________________________________________________________________________________________
+batchnormalization_1 (BatchNorma (None, 500)           2000        dense_1[0][0]                    
+____________________________________________________________________________________________________
+dropout_1 (Dropout)              (None, 500)           0           batchnormalization_1[0][0]       
+____________________________________________________________________________________________________
+activation_1 (Activation)        (None, 500)           0           dropout_1[0][0]                  
+____________________________________________________________________________________________________
+dense_2 (Dense)                  (None, 50)            25050       activation_1[0][0]               
+____________________________________________________________________________________________________
+batchnormalization_2 (BatchNorma (None, 50)            200         dense_2[0][0]                    
+____________________________________________________________________________________________________
+dropout_2 (Dropout)              (None, 50)            0           batchnormalization_2[0][0]       
+____________________________________________________________________________________________________
+activation_2 (Activation)        (None, 50)            0           dropout_2[0][0]                  
+____________________________________________________________________________________________________
+dense_3 (Dense)                  (None, 10)            510         activation_2[0][0]               
+====================================================================================================
+Total params: 420,260
+Trainable params: 419,160
+Non-trainable params: 1,100</code></pre>
