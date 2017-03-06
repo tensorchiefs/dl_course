@@ -165,7 +165,7 @@ The course is split in 8 sessions, each 4 hours long.
       			<li>Why going beyond fully connected NN?</li> 
       			<li>What is convolution?</li>
       			<li>Feature/activation maps</li>
-      			<li>Builing a CNN</li>
+      			<li>Building a CNN</li>
       		</ul>
       </td>
       <td> 
@@ -173,7 +173,9 @@ The course is split in 8 sessions, each 4 hours long.
 		<li>
 	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
 	</li>
-
+	<li>
+	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	</li>
         </ul>
       </td>
       <td>
@@ -206,6 +208,10 @@ The course is split in 8 sessions, each 4 hours long.
 		<li>
 	TODO
 	</li>
+	<li>
+	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
+	</li>
+	
 
         </ul>
       </td>
