@@ -94,3 +94,10 @@ ENV/
 
 notebooks/tensorboard/*
 notebooks_misc/tensorboard/*
+
+notebooks/tb_full_mnist/*
+
+*.zip
+
+notebooks_misc/tb_full_mnist/*
+*.keras
