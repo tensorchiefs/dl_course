@@ -88,7 +88,6 @@ The course is split in 8 sessions, each 4 hours long.
       		<ul>
       			<li>Logistic regression</li>
       			<li>Multinomial Logistic Regression</li>
-      			<li>Fully Connected networks</li>
       		</ul>
       </td>
       <td> 
@@ -122,16 +121,19 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>3</td>
       <td> 
-      		<b>Tricks of the trade</b> <a href="XXX?dl=1">slides (TODO)</a>
+		<b>Tricks of the trade</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
-      			<li>Regularization:
+			<li>Fully connected network</li>
+			<li>Backpropagation and Gradient Flow</li>
+			<li>ReLU</li>
+			<li>Regularization:
       				<ul>
       					<li>Early stopping</li>
       					<li>L2 (Weight Decay)</li>
       					<li>Dropout</li>
       				</ul>
       			</li>
-			<li>Backpropagation and Gradient Flow</li>
+			<li>Batch-Normalization</li>
       		</ul>
       </td>
       <td> 
@@ -143,15 +145,13 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected network MNIST  </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected Network MNIST  </a> 
+			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST_keras_solution.ipynb'> Solution Fully Connected network (Tricks of the Trade)</a> 
       		</li>
 		
       		<li>
       			 TODO
       		</li> 
-      		<li>
-      			TODO
-      		</li>
          </ul>
       </td>
     </tr>
