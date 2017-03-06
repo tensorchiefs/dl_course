@@ -1,6 +1,6 @@
 ## Fully connected neural network on MNIST dataset
 
-a) Open the notebook [fcn_MNIST.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST.ipynb).
+a) Open the notebook [fcn_MNIST.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST.ipynb).
 In this notebook we use a fully connected neural network to predict the handwritten digits of the MNIST dataset.  
 We have 4000 examples with 784 pixel values and 10 classes. Run the fist 3 cells.
 
