@@ -144,15 +144,15 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td>
       	<ul>
+	<li>
+	      			<a href='http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/day3.html'> Exercises day3 </a> 
+      		</li>
 			<li>
       			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected Network MNIST  </a> </li>
 			<li>
 			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST_keras_solution.ipynb'> Solution Fully Connected network (Tricks of the Trade)</a> 
       			</li>
-		
-      		<li>
-      			 TODO
-      		</li> 
+
          </ul>
       </td>
     </tr>
