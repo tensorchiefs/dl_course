@@ -20,7 +20,7 @@ Then start the jupyter notebook in the console with
 jupyter notebook --NotebookApp.token=tensorchiefs
 ```
 
-a) Run the first model (execute the cell after training) and visualize the result in TensorBoard (have a look at learning curves and the histograms / distributions of the weights)
+a) Open the notebook [fcn_MNIST_keras](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST_keras.ipynb) and run the first model (execute the cell after training) and visualize the result in TensorBoard (have a look at learning curves and the histograms / distributions of the weights)
 
 b) Remove the `init='zero'` argument of the dense layers, to have a proper internalization of your weights. Change the name from `name = 'sigmoid_init0'` to `name = 'sigmoid'`. Restart the kernel and repeat the training as in a). Compare the results in TensorBoard, describe your results.
 
