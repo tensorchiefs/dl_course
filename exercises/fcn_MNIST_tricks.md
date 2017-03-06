@@ -28,7 +28,7 @@ c) Change the activations / non-linearities from `Activation('sigmoid')` to `Act
 
 d) Add a dropout layer: Now add a dropout layer `model.add(Dropout(0.3))` between the Dense-Layer and the Activation. Change the name from `name = 'relu'` to `name = 'dropout'`. 
 
-e) Add a batch-normalization: Now add a batch-norm layer `Now add a dropout layer `model.add(BatchNormalization())` between the Dense-Layer and the Dropout. Change the name from `name = 'dropout'` to `name = 'batch_dropout'`. Continue as above  
+e) Add a batch-normalization: Now add a batch-norm layer `model.add(BatchNormalization())` between the Dense-Layer and the Dropout. Change the name from `name = 'dropout'` to `name = 'batch_dropout'`. Continue as above  
 
 The network should look like:
 
