@@ -145,9 +145,10 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected Network MNIST  </a> 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/06_fcn_MNIST_solution.ipynb'> Solution Fully Connected Network MNIST  </a> </li>
+			<li>
 			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/07_fcn_MNIST_keras_solution.ipynb'> Solution Fully Connected network (Tricks of the Trade)</a> 
-      		</li>
+      			</li>
 		
       		<li>
       			 TODO
@@ -279,6 +280,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td> 
         <ul>
           <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>
+	  
           <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
           '>(blog post)</a></li>
         </ul>
