@@ -93,4 +93,4 @@ ENV/
 .ropeproject
 
 notebooks/tensorboard/*
-notesbooks_misc/tensorboard/*
+notebooks_misc/tensorboard/*
