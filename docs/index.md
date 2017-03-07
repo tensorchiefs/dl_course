@@ -121,7 +121,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>3</td>
       <td> 
-		<b>Going Deeper / Tricks of the trade</b> <a href="https://www.dropbox.com/s/vkud41xsb7pz3tz/lecture03.pdf?dl=1">slides (TODO)</a>
+		<b>Going Deeper / Tricks of the trade</b> <a href="https://www.dropbox.com/s/vkud41xsb7pz3tz/lecture03.pdf?dl=1">slides </a>
       		<ul>
 			<li>Fully connected network</li>
 			<li>Backpropagation and Gradient Flow</li>
