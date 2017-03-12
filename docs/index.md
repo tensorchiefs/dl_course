@@ -133,7 +133,7 @@ The course is split in 8 sessions, each 4 hours long.
       					<li>Dropout</li>
       				</ul>
       			</li>
-			<li>Batch-Normalization</li>
+			
       		</ul>
       </td>
       <td> 
@@ -163,19 +163,17 @@ The course is split in 8 sessions, each 4 hours long.
       <td> 
       		<b>Convolutional Neural Networks I</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
+		        <li>Batch-Normalization</li>
       			<li>Why going beyond fully connected NN?</li> 
-      			<li>What is convolution?</li>
-      			<li>Feature/activation maps</li>
+      			<li>What is convolution?</li>      			
       			<li>Building a CNN</li>
+			<li>Simlarities between a CNN and the brain</li>
       		</ul>
       </td>
       <td> 
         <ul>
 		<li>
 	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
-	</li>
-	<li>
-	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
 	</li>
         </ul>
       </td>
@@ -200,8 +198,10 @@ The course is split in 8 sessions, each 4 hours long.
       		<b>Convolutional Neural Networks II</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
    					<li>Typical CNN architectures</li>
+					<li>Feature/activation maps in detail</li>
+					<li>Understand CNN features</li>
       					<li>Use pretrained nets for fine-tuning or feature generator</li>
-      					<li>Understand CNN features</li>
+      					
       		</ul>
       </td>
       <td> 
@@ -212,7 +212,12 @@ The course is split in 8 sessions, each 4 hours long.
 	<li>
 	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
 	</li>
-	
+	<li>
+	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	</li>
+	<li>
+	<a href="https://blog.keras.io/category/demo.html">Use keras to visualize which image features activate a feature map</a>
+	</li>
 
         </ul>
       </td>
