@@ -181,7 +181,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-      			TODO
+      			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Exercises day4</a>
       		</li>
       		<li>
       			 TODO
