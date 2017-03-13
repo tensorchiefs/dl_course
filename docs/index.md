@@ -184,14 +184,35 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Exercises day4</a>
       		</li>
 		      		<li>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1  MNIST</a>
+      		</li>
+		
+		      		<li>
+      			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Solution CNN2  MNIST</a>
+      		</li>
+		
+		      		<li>
       			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0">HA: Data overview</a>
       		</li>
-      		<li>
-      			 TODO
-      		</li> 
-      		<li>
-      			TODO
+		
+				      		<li>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/09_8_faces_only_fc.md">HA: 8 faces FC </a>
       		</li>
+		
+								      		<li>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc_solution.ipynb">HA: 8 faces FC Solution</a>
+      		</li>
+		
+				      		<li>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/10_8_faces_cnn.md">HA: 8 faces CNN</a>
+      		</li>
+		
+
+		
+				      		<li>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn_solution.ipynb">HA: 8 faces CNN Solution</a>
+      		</li>
+		
          </ul>
       </td>
     </tr>
