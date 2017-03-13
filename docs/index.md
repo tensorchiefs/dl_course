@@ -200,7 +200,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 		
 				      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/09_8_faces_only_fc.md">HA: 8 faces FC </a>
+      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/8_faces_only_fc.html">HA: 8 faces FC </a>
       		</li>
 		
 								      		<li>
@@ -208,7 +208,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 		
 				      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/10_8_faces_cnn.md">HA: 8 faces CNN</a>
+      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/8_faces_cnn.html">HA: 8 faces CNN</a>
       		</li>
 		
 
