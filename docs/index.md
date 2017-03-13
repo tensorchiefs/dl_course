@@ -183,6 +183,9 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Exercises day4</a>
       		</li>
+		      		<li>
+      			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0">HA: Data overview</a>
+      		</li>
       		<li>
       			 TODO
       		</li> 
