@@ -191,6 +191,10 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
       		</li>
 		
+				      		<li>
+      			<a href="https://www.dropbox.com/s/l0ck0xddlaazhb9/Data_8_faces_no_cut.hdf5?dl=0l">HA: Data 8 faces</a>
+      		</li>
+		
 		      		<li>
       			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html">HA: Data overview</a>
       		</li>
