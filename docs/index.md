@@ -192,7 +192,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 		
 		      		<li>
-      			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0">HA: Data overview</a>
+      			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html">HA: Data overview</a>
       		</li>
 		
 				      		<li>
