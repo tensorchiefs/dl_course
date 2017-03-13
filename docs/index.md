@@ -188,7 +188,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 		
 		      		<li>
-      			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Solution CNN2  MNIST</a>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
       		</li>
 		
 		      		<li>
