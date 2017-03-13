@@ -1,14 +1,12 @@
-## 8 faces with fully connected networks
-
-In this excercise we work with the 8 faces dataset. this dataset has 350 images of 8 celebrities.  
-To get an overview of the data open the notebook [8 faces overview](https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html) and look at the celebrities and the images.  
-The data is from a random sample of 8 persons  of the OXFORD VGG Face dataset (over 2600 Persons),  
-for more information look here: [http://www.robots.ox.ac.uk/~vgg/data/vgg_face/](http://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
-
-a) Open the notebook [8 faces only fc](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc.ipynb) and bulit this network and then train it.  
-How good is the model? Look at the train valid and test accuracy.
-```
-____________________________________________________________________________________________________
+<h2 id="faces-with-fully-connected-networks">8 faces with fully connected networks</h2>
+<p>In this excercise we work with the 8 faces dataset. this dataset has 350 images of 8 celebrities.<br />
+To get an overview of the data open the notebook <a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&amp;preview=8_faces_dataoverview.html">8 faces overview</a> and look at the celebrities and the images.<br />
+The data is from a random sample of 8 persons of the OXFORD VGG Face dataset (over 2600 Persons),<br />
+for more information look here: <a href="http://www.robots.ox.ac.uk/~vgg/data/vgg_face/" class="uri">http://www.robots.ox.ac.uk/~vgg/data/vgg_face/</a></p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc.ipynb">8 faces only fc</a> and bulit this network and then train it.<br />
+How good is the model? Look at the train valid and test accuracy.</p>
+<pre><code>____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 dense_1 (Dense)                  (None, 8)             55304       dense_input_1[0][0]              
@@ -18,13 +16,11 @@ activation_1 (Activation)        (None, 8)             0           dense_1[0][0]
 Total params: 55,304
 Trainable params: 55,304
 Non-trainable params: 0
-____________________________________________________________________________________________________
-```
-b) Now let's add some hidden layers to the network.  
-Restart the notebook and built a new network with hidden layers, see below.  
-How good is this model? Look at the train valid and test accuracy.
-```
-____________________________________________________________________________________________________
+____________________________________________________________________________________________________</code></pre></li>
+<li><p>Now let's add some hidden layers to the network.<br />
+Restart the notebook and built a new network with hidden layers, see below.<br />
+How good is this model? Look at the train valid and test accuracy.</p>
+<pre><code>____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 dense_1 (Dense)                  (None, 400)           2765200     dense_input_1[0][0]              
@@ -42,5 +38,5 @@ activation_3 (Activation)        (None, 8)             0           dense_3[0][0]
 Total params: 2,847,008
 Trainable params: 2,847,008
 Non-trainable params: 0
-____________________________________________________________________________________________________
-```
+____________________________________________________________________________________________________</code></pre></li>
+</ol>

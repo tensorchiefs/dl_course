@@ -1,14 +1,12 @@
-## 8 faces with convolutional neural networks
-
-Hint: the training of the networks takes some time because we compute only on the cpu.  
-(up to 1h with the last network)
-
-a) Open the notebook [8 faces cnn](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn.ipynb) and bulit this network and then train it.  
-Do you expect it to be better then the last one with only fully connected layers?  
-How good is the model? Look at the train valid and test accuracy.
-
-```
-____________________________________________________________________________________________________
+<h2 id="faces-with-convolutional-neural-networks">8 faces with convolutional neural networks</h2>
+<p>Hint: the training of the networks takes some time because we compute only on the cpu.<br />
+(up to 1h with the last network)</p>
+<ol style="list-style-type: lower-alpha">
+<li>Open the notebook <a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn.ipynb">8 faces cnn</a> and bulit this network and then train it.<br />
+Do you expect it to be better then the last one with only fully connected layers?<br />
+How good is the model? Look at the train valid and test accuracy.</li>
+</ol>
+<pre><code>____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 convolution2d_1 (Convolution2D)  (None, 48, 48, 32)    896         convolution2d_input_1[0][0]      
@@ -44,14 +42,13 @@ activation_6 (Activation)        (None, 8)             0           dense_2[0][0]
 Total params: 1,910,576
 Trainable params: 1,910,576
 Non-trainable params: 0
-____________________________________________________________________________________________________
-```
-b) Now let's add the tricks which we already used on the MNIST dataset.   
-Restart the notebook and built the same network as above and add dropout layers, see below.  
-How good is the model now? Look at the train valid and test accuracy.
-
-```
-____________________________________________________________________________________________________
+____________________________________________________________________________________________________</code></pre>
+<ol start="2" style="list-style-type: lower-alpha">
+<li>Now let's add the tricks which we already used on the MNIST dataset.<br />
+Restart the notebook and built the same network as above and add dropout layers, see below.<br />
+How good is the model now? Look at the train valid and test accuracy.</li>
+</ol>
+<pre><code>____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 convolution2d_1 (Convolution2D)  (None, 48, 48, 32)    896         convolution2d_input_1[0][0]      
@@ -93,14 +90,13 @@ activation_6 (Activation)        (None, 8)             0           dense_2[0][0]
 Total params: 1,910,576
 Trainable params: 1,910,576
 Non-trainable params: 0
-____________________________________________________________________________________________________
-```
-c) Finally add batchnormalization to your network.   
-Restart the notebook and built the same network as above and add batchnormalization layers, see below.  
-How good is the model now? Look at the train valid and test accuracy.
-
-```
-____________________________________________________________________________________________________
+____________________________________________________________________________________________________</code></pre>
+<ol start="3" style="list-style-type: lower-alpha">
+<li>Finally add batchnormalization to your network.<br />
+Restart the notebook and built the same network as above and add batchnormalization layers, see below.<br />
+How good is the model now? Look at the train valid and test accuracy.</li>
+</ol>
+<pre><code>____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
 ====================================================================================================
 convolution2d_1 (Convolution2D)  (None, 48, 48, 32)    896         convolution2d_input_1[0][0]      
@@ -152,5 +148,4 @@ activation_6 (Activation)        (None, 8)             0           dense_2[0][0]
 Total params: 1,912,144
 Trainable params: 1,911,360
 Non-trainable params: 784
-____________________________________________________________________________________________________
-```
+____________________________________________________________________________________________________</code></pre>
