@@ -162,7 +162,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> 
-		<a href="https://www.dropbox.com/s/4pc1z5b55uuvwi0/CNN-Tag4-CNN-plan-v1.pdf?dl=1">slides</a>
+		<a href="https://www.dropbox.com/s/3xg9t8gwi0znca8/CNN-Tag4-CNN-plan-v2.pdf?dl=1">slides</a>
       		<ul>
 		        <li>Batch-Normalization</li>
       			<li>Why going beyond fully connected NN?</li> 
