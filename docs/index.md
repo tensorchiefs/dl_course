@@ -162,7 +162,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td>4</td>
       <td> 
       		<b>Convolutional Neural Networks I</b> 
-		<a href="https://www.dropbox.com/s/3xg9t8gwi0znca8/CNN-Tag4-CNN-plan-v2.pdf?dl=1">slides</a>
+		<a href="https://www.dropbox.com/s/99qgtofbao5je8t/CNN-Tag4-CNN-presented.pdf?dl=1">slides</a>
       		<ul>
 		        <li>Batch-Normalization</li>
       			<li>Why going beyond fully connected NN?</li> 
@@ -173,8 +173,11 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-		<li>
+	<li>
 	<a href="https://github.com/vdumoulin/conv_arithmetic">Convolution arithmetic</a>
+	</li>
+	<li>
+	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
 	</li>
         </ul>
       </td>
@@ -250,11 +253,12 @@ The course is split in 8 sessions, each 4 hours long.
       <td> 
         <ul>
 	<li>
-	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
+	<a href="https://transcranial.github.io/keras-js/#/mnist-cnn">live CNN in browser</a>
 	</li>
 	<li>
-	<a href="http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html">demo CNN and activation maps</a>
+	<a href="http://yosinski.com/deepvis">Understanding CNNs through visualization</a>
 	</li>
+
 	<li>
 	<a href="http://cs231n.github.io/understanding-cnn/">cs231 on visualization CNNs</a>
 	</li>
