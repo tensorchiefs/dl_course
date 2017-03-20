@@ -274,12 +274,12 @@ The course is split in 8 sessions, each 4 hours long.
       			TODO
       		</li>
 				      		<li>
-      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/12_8_faces_fine_tuning.html">Exercise Fine tuning 8 faces</a>
+      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/12_8_faces_fine_tuning.html">12_transfer_learning</a>
       		</li>
 		
 
 		      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">Solution Fine tuning 8 faces</a>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">12_transfer_learning Solution</a>
       		</li>
 
       		<li>
