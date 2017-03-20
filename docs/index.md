@@ -294,7 +294,7 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://www.dropbox.com/s/5zyntjgff9k5cgm/13-exercises-optimized-image-solution.pdf?dl=1">13-exercises-optimized-image solution</a>
       		</li>
       		<li>
-      			<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1">14-adversarial-example/a>
+      			<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1">14-adversarial-example</a>
       		</li>
       		<li>
       			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">14-adversarial-example solution</a>
