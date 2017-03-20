@@ -272,20 +272,34 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-      			TODO
+      			<a href="https://www.dropbox.com/s/96a0a0umk3f7xew/11-finger-exercise.pdf?dl=1">11-finger-exercise</a>
       		</li>
+      		<li>
+      			<a href="https://www.dropbox.com/s/teto11w8awxkj9i/11-finger-exercise-solution.pdf?dl=1">11-finger-exercise solution</a>
+      		</li>
+      		
 				      		<li>
       			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/12_8_faces_fine_tuning.html">12_transfer_learning</a>
       		</li>
 		
 
 		      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">12_transfer_learning Solution</a>
+      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">12_transfer_learning solution</a>
       		</li>
 
       		<li>
-      			TODO
+      			<a href="https://www.dropbox.com/s/956jxouq0eqisn8/13-exercises-optimized-image.pdf?dl=1">13-exercises-optimized-image</a>
       		</li>
+      		<li>
+      			<a href="https://www.dropbox.com/s/5zyntjgff9k5cgm/13-exercises-optimized-image-solution.pdf?dl=1">13-exercises-optimized-image solution</a>
+      		</li>
+      		<li>
+      			<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1">14-adversarial-example/a>
+      		</li>
+      		<li>
+      			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">14-adversarial-example solution</a>
+      		</li>
+ 
          </ul>
       </td>
     </tr>
