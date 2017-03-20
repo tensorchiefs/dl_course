@@ -241,12 +241,13 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>5</td>
       <td> 
-      		<b>Convolutional Neural Networks II</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<b>Convolutional Neural Networks II</b> <a href="https://www.dropbox.com/s/hn0404zsihjmeld/DL-day5-plan.pdf?dl=1">slides </a>
       		<ul>
    					<li>Typical CNN architectures</li>
+					<li>Transfer learning: Use pretrained nets for fine-tuning or feature generator</li>
 					<li>Feature/activation maps in detail</li>
 					<li>Understand CNN features</li>
-      					<li>Use pretrained nets for fine-tuning or feature generator</li>
+      					
       					
       		</ul>
       </td>
