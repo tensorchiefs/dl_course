@@ -5,7 +5,7 @@ We provide a docker image [oduerr/tf_docker:tf1_py3](https://github.com/oduerr/t
 ## Installation of docker
 
 * The official installation guide can be found at: [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/)
-* For hints how to use docker on Windows see [here](https://www.dropbox.com/s/b6oamo7uxdgc8dy/how.to.use.docker.on.windows-after.installation.pdf?dl=1)
+* For hints how to use docker on Windows see [here](https://www.dropbox.com/s/ml979yxv273iml1/how.to.use.docker.on.windows-after.installation.21032017.pdf?dl=1)
 * In case that the docker installation does not work we have an addition installation guide for installing Tensorflow directly on [Windows](https://www.dropbox.com/s/ozxzzx9yt3660tl/install-tensorflow-directly-on-Windows.pdf?dl=1).
 
 
@@ -21,7 +21,7 @@ open [http://localhost:8888/?token=tensorchiefs](http://localhost:8888/?token=te
 If you want to access a directory here (/Users/oli/Documents/workspace/dl_tutorial/) from inside the docker container execute:
 
 ```
-docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/ -it oduerr/tf_docker:tf1_py3
+docker run -p 8888:8888 -p 6006:6006 -v /Users/oli/Documents/workspace/dl_tutorial/:/notebooks/local/ -it oduerr/tf_docker:tf1_py3
 ```
 
 
