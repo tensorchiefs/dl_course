@@ -304,6 +304,7 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">13b-adversarial-example solution</a>
       		</li>
 		</ul>
+		</td>
 		</tr>
 		
  <!-- Woche -->
