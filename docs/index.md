@@ -333,7 +333,9 @@ The course is split in 8 sessions, each 4 hours long.
 	
       		</li>
       		<li>
-      			 TODO
+		15 Char RNN <a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn.html"> Excercise</a> |
+		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a>| 
+		
       		</li> 
       		<li>
       			TODO
