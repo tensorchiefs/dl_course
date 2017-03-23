@@ -303,10 +303,44 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">14-adversarial-example solution</a>
       		</li>
  
+ 
+ <!---- Woche -->
+     <tr>
+      <td>7</td>
+      <td> 
+      		<b>Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
+      		<ul>
+      			<li>Recurrent Neural Networks</li>
+      			<li>Vanishing Gradient Problem</li>
+      			<li>LSTMs</li>
+      		</ul>
+      </td>
+      <td> 
+        <ul>
+          <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>
+	  
+          <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+          '>(blog post)</a></li>
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+			13 Simple RNN:<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/rnn_simple.html"> Excercise</a>
+      		</li>
+      		<li>
+      			 TODO
+      		</li> 
+      		<li>
+      			TODO
+      		</li>
+         </ul>
+      </td>
+    </tr>
 
     <!---- Woche -->
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td> 
       		<b>Un- and Semi-supervised Learning</b> <a href="XXX?dl=1">slides (TODO)</a>
       		<ul>
@@ -340,39 +374,7 @@ The course is split in 8 sessions, each 4 hours long.
     </tr>
 
     
-    <!---- Woche -->
-     <tr>
-      <td>7</td>
-      <td> 
-      		<b>Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
-      		<ul>
-      			<li>Recurrent Neural Networks</li>
-      			<li>Vanishing Gradient Problem</li>
-      			<li>LSTMs</li>
-      		</ul>
-      </td>
-      <td> 
-        <ul>
-          <li>Karpathy (May 2015) The unreasonable effectiveness of Recurrent Neural Networks <a href='http://karpathy.github.io/2015/05/21/rnn-effectiveness/'>(blog post)</a></li>
-	  
-          <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-          '>(blog post)</a></li>
-        </ul>
-      </td>
-      <td>
-      	<ul>
-      		<li>
-      			TODO
-      		</li>
-      		<li>
-      			 TODO
-      		</li> 
-      		<li>
-      			TODO
-      		</li>
-         </ul>
-      </td>
-    </tr>
+    
     
     
     
