@@ -80,7 +80,7 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
 
     
-    <!---- Woche -->
+    <!-- Woche -->
     
     <tr>
       <td>2</td>
@@ -117,7 +117,7 @@ The course is split in 8 sessions, each 4 hours long.
     </tr>
 
 
-    <!---- Woche -->
+    <!-- Woche -->
 
     <tr>
       <td>3</td>
@@ -158,7 +158,7 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
     </tr>
        
-    <!---- Woche -->
+    <!-- Woche -->
     <tr>
       <td>4</td>
       <td> 
@@ -238,7 +238,7 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-    <!---- Woche -->
+    <!-- Woche -->
     <tr>
       <td>5</td>
       <td> 
@@ -305,7 +305,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
  
  
- <!---- Woche -->
+ <!-- Woche -->
      <tr>
       <td>6</td>
       <td> 
@@ -322,6 +322,10 @@ The course is split in 8 sessions, each 4 hours long.
 	  
           <li>Colah (August 2015) Understanding LSTM Networks <a href='http://colah.github.io/posts/2015-08-Understanding-LSTMs/
           '>(blog post)</a></li>
+
+          <li><a href="http://www.deeplearningbook.org/contents/rnn.html">DL-book chapter 10 </a></li>
+
+
         </ul>
       </td>
       <td>
@@ -334,17 +338,15 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
       		<li>
 		15 Char RNN <a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn.html"> Excercise</a> |
-		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a>| 
+		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
 		
       		</li> 
-      		<li>
-      			TODO
-      		</li>
+      		
          </ul>
       </td>
     </tr>
 
-    <!---- Woche -->
+    <!-- Woche -->
     <tr>
       <td>7</td>
       <td> 
