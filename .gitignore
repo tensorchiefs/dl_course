@@ -101,3 +101,5 @@ notebooks/tb_full_mnist/*
 
 notebooks_misc/tb_full_mnist/*
 *.keras
+
+notebooks/Didactic_no_state
