@@ -298,16 +298,16 @@ The course is split in 8 sessions, each 4 hours long.
       			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/13-optimize-image.ipynb">13-exercises-optimized-image notebook</a>
       		</li>
       		<li>
-      			<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1">14-adversarial-example</a>
+      			<a href="https://www.dropbox.com/s/sf8k96kxinknzfh/14-adversarial-example.pdf?dl=1">13b-adversarial-example</a>
       		</li>
       		<li>
-      			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">14-adversarial-example solution</a>
+      			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">13b-adversarial-example solution</a>
       		</li>
  
  
  <!---- Woche -->
      <tr>
-      <td>7</td>
+      <td>6</td>
       <td> 
       		<b>Recurent Neural Networks</b> <a href="XXX?dl=1">slides</a>
       		<ul>
@@ -327,8 +327,8 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-			13 Simple RNN:<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/rnn_simple.html"> Excercise</a>
-			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a>
+			14 Simple RNN:<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/rnn_simple.html"> Excercise</a> | 
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
 	
       		</li>
