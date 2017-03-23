@@ -19,9 +19,8 @@ We took inspiration (and sometimes slides / figures) from the following resource
 ## Syllabus (subject to change)
 The course is split in 8 sessions, each 4 hours long. 
 
-
+<html>
 <table class="zebra" style="max-width:900px">
-
   <tr>
       <th style="text-align: left;" width="5">Day</th>
       <th style="text-align: left;" width="350">Topic and slides</th>
@@ -238,7 +237,8 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-    <!-- Woche -->
+
+<!-- Woche -->
     <tr>
       <td>5</td>
       <td> 
@@ -303,8 +303,9 @@ The course is split in 8 sessions, each 4 hours long.
       		<li>
       			<a href="https://www.dropbox.com/s/8cgm7cvr1lcqfsd/14-adversarial-example-solution.pdf?dl=1">13b-adversarial-example solution</a>
       		</li>
- 
- 
+		</ul>
+		</tr>
+		
  <!-- Woche -->
      <tr>
       <td>6</td>
@@ -380,14 +381,10 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-
-    
-    
-    
-    
-    
+   
  
 </table>
+</html>
 
 
 
