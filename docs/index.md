@@ -21,6 +21,7 @@ The course is split in 8 sessions, each 4 hours long.
 
 
 <table class="zebra" style="max-width:900px;">
+
   <tr>
       <th style="text-align: left;" width="5">Day</th>
       <th style="text-align: left;" width="350">Topic and slides</th>
@@ -327,6 +328,9 @@ The course is split in 8 sessions, each 4 hours long.
       	<ul>
       		<li>
 			13 Simple RNN:<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/rnn_simple.html"> Excercise</a>
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a>
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
+	
       		</li>
       		<li>
       			 TODO
