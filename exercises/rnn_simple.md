@@ -1,6 +1,6 @@
 ## Simple RNN on artificial data 
 
-Open the notebook [simple_rnn_tf1_nolsg.ipynb](XXX).
+Open the notebook [14_simple_rnn_tf1_no_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb).
 
 a) Forward pass with trained weights ($W$ and $b$): Complete the code for the single time step forward pass from the hidden state $h_0 \rightarrow h_1$. 
 
