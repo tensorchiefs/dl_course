@@ -15,4 +15,4 @@ c) Use ($V$ and $bv$) to calculate the output probabilities for time step 1. Hin
 
 d) Try to understand the training code (Keras and/or TensorFlow). 
 
-e) Do the training with a hidden state of size of 4 and change it then to 2, how is the performance affected? Use the TensorFlow code, which currently runs much faster.
+e) Do the training with a hidden state of size of 4 and change it then to 2, how is the performance affected? What is the influence on $W$,$b$,$V$ and $bv$.Use the TensorFlow code, which currently runs much faster. 
