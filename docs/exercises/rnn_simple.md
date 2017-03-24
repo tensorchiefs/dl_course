@@ -1,5 +1,4 @@
 ---
-layout: task
 title: Simple RNN on artificial data 
 ---
 
