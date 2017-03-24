@@ -29,6 +29,6 @@ For an illustration of the LSTM see:
 
 **Solution:** (1'267'712) for first LSTM and (54'378) for dense layer. The solution can be found [here](15_rnn_solution_a.pdf)
 
-b) Now open the notebook. Understand the code choose a different starting seed.
+b) Now open the notebook [15_char_rnn_didactic_prediction_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb). Understand the code choose a different starting seed.
 
 c) Play around with the temperature. What happens if you, increase / decrease the temperature.  
