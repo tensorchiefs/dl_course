@@ -1,5 +1,6 @@
 ---
 layout: default
+mathjax: true
 title: Deep Learning Course 
 ---
 ## Simple RNN on artificial data 
