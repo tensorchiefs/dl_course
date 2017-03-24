@@ -18,11 +18,14 @@ model.add(TimeDistributed(Dense(len(chars))))
 model.add(TimeDistributed(Activation('softmax')))
 ```
 
-Please note that a LSTM-layer has 4 units. Each unit takes the concatenation $[h_{t-1}, x_t]$ of the input vector $x_t$ and hidden state vector $h_{t-1}$ and transforms it using a matrix $W$ and a bias vector $b$. For example the forget-gate is [see also](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+Please note that a LSTM-layer has 4 units. Each unit takes the concatenation $[h_{t-1}, x_t]$ of the input vector $x_t$ and hidden state vector $h_{t-1}$ and transforms it using a matrix $W$ and a bias vector $b$. For example the forget-gate is: 
 
 $$
  f_t = \sigma ([h_{t-1}, x_t] W_f + b_f)
 $$  
+
+For an illustration of the LSTM see: 
+[http://colah.github.io/posts/2015-08-Understanding-LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
 
 **Solution:** (1'267'712) for first LSTM and (54'378) for dense layer. The solution can be found [here](15_rnn_solution_a.pdf)
 
