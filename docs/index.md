@@ -336,13 +336,13 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-			14 Simple RNN:<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/rnn_simple.html"> Excercise</a> | 
+			14 Simple RNN:<a href="exercises/rnn_simple"> Excercise</a> | 
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
 	
       		</li>
       		<li>
-		15 Char RNN <a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn.html"> Excercise</a> |
+		15 Char RNN <a href="exercises/15_rnn"> Excercise</a> |
 		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
 		
       		</li> 
