@@ -1,4 +1,8 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+---
+layout: default
+title: Simple RNN on artificial data 
+---
+
 ## Simple RNN on artificial data 
 
 Open the notebook [14_simple_rnn_tf1_no_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb).
