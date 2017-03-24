@@ -1,3 +1,8 @@
+---
+layout: default
+mathjax: true
+title: Deep Learning Course 
+---
 ## Simple RNN on artificial data 
 
 Open the notebook [14_simple_rnn_tf1_no_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb).

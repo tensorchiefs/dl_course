@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Deep Learning Course 
+---
 # Deep Learning (CAS machine intelligence) 
 
 This course in deep learning focuses on practical aspects of deep learning. 
