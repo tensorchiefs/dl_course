@@ -60,23 +60,32 @@ The course is split in 8 sessions, each 4 hours long.
       
       <td style="text-align: left;" width="200">
       	<ul>
-		<li>
-      			<a href='http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/day1.html'> Exercises day1 </a> 
-      		</li>
+		
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution MatrixMultiplication </a> 
+      		01 Matrix Multiplication 
+          <a href="exercises/01_tf_matrix_mult"> Exercises</a> | 
+          <a href='https://github.comm/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
+          <a href='https://github.comm/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
       		</li>
 
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
-      		</li>
+      		02 Linreg (with_slider_solution) 
+          <a href="exercises/02_linreg_with_slider"> Exercises</a> |
+          <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider.ipynb'> Notebook</a> 
+          <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_slider_solution.ipynb'> Solution LinearRegression </a> 
+      </li>
+
+      <li>
+            03 Homework: Frozen Graph (Artstyle Transfer)
+            <a href="exercises/03_Loading_Frozen_Graph"> Exercises</a> |
+            <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph_solution.ipynb'> Solution Exercise</a> 
+      </li>
+
       		<li>
-      			<a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Homework: Mandelbrot.ipynb</a> 
+      			 Homework: Mandelbrot <a href='https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/simple_ops/Mandelbrot.ipynb'> Notebook</a> 
       		</li> 
  
-      		<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph_solution.ipynb'> Homework: Solution Exercise Loading_Frozen_Graph (Artstyle Transfer)</a> 
-      		</li>
+      		
 			
          </ul>
       </td>
@@ -99,18 +108,18 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-      			<a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
+      		  <a href='exercises_tf_playgound_day2.html'> TF-playground</a> 
       		</li>
-		<li>		
-      			<a href='http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/day2.html'> Exercises day2  </a> 
-      		</li>
-			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/04_log_reg_challenger_solution.ipynb'> Solution Logistic Regression </a> 
+
+      <li>
+            04 Logistic Regression (Challenger)<a href="exercises/04_log_reg_challenger"> Exercises</a> | 
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/04_log_reg_challenger_solution.ipynb'> Solution </a> 
       		</li>
       		
 			<li>
-      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/05_Multinomial_Logistic_Regression_solution.ipynb'> Solution Multinomial Logistic Regression </a> 
-      		</li>
+            05 Multinomial Logistic Regression  <a href="exercises/05_Multinomial_Logistic_Regression"> Exercises</a>
+      			<a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/05_Multinomial_Logistic_Regression_solution.ipynb'> Solution</a> 
+      </li>
 		
 
 
@@ -336,13 +345,13 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-			14 Simple RNN:<a href="exercises/rnn_simple"> Excercise</a> | 
+			14 Simple RNN:<a href="exercises/rnn_simple"> Exercises</a> | 
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
 	
       		</li>
       		<li>
-		15 Char RNN <a href="exercises/15_rnn"> Excercise</a> |
+		15 Char RNN <a href="exercises/15_rnn"> Exercises</a> |
 		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
 		
       		</li> 
