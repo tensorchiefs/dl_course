@@ -23,7 +23,7 @@ $$
  f_t = \sigma ([h_{t-1}, x_t] W_f + b_f)
 $$  
 
-Hints: Look at the code, what is the size of your hidden state vector $h_{t-1}$  and what is the size of the input vector $x_t$? First determine the size of the concatenation $[h_{t-1}, x_t]$ and then the size of your $W$ and $b$. Remember, there are 4 units in a LSTM-layer, so we have 4 $W$ and $b$.
+Hints: Look at the code-snippet above, what is the size of your hidden state vector $h_{t-1}$  and what is the size of the input vector $x_t$? First determine the size of the concatenation $[h_{t-1}, x_t]$ and then the size of your $W$ and $b$. Remember, there are 4 units in a LSTM-layer, so we have 4 $W$ and $b$.
 
 
 
