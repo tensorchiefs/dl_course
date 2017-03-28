@@ -1,7 +1,7 @@
 ---
 layout: default
 mathjax: true
-title: DL: Matrix Multiplication in TensorFlow
+title: Matrix Multiplication in TensorFlow
 ---
 ## Matrix Multiplication in TensorFlow
 
