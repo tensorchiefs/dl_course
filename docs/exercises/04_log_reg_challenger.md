@@ -1,7 +1,7 @@
 ---
 layout: default
 mathjax: true
-title: DL: Logistic regression in TensorFlow
+title: DLC Logistic regression in TensorFlow
 ---
 ## Logistic regression in TensorFlow
 
