@@ -1,3 +1,8 @@
+---
+layout: default
+mathjax: true
+title: DL: Logistic regression in TensorFlow
+---
 ## Logistic regression in TensorFlow
 
 a) Open the notebook [log_reg_challenger](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/04_log_reg_challenger.ipynb). In this notebook
