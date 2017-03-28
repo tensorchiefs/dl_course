@@ -1,3 +1,8 @@
+---
+layout: default
+mathjax: true
+title: DLC Loading Frozen Graph
+---
 ## Loading Frozen Graph
 
 a) Open the notebook [Loading_Frozen_Graph](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/03_Loading_Frozen_Graph.ipynb) and run the fist 2 cells to load the "art style transfer" graph.
