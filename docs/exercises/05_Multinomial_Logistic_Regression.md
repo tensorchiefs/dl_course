@@ -1,3 +1,8 @@
+---
+layout: default
+mathjax: true
+title: Deep Learning Course 
+---
 ## Multinomial Logistic Regression on MNIST dataset
 
 a) Open the notebook [Multinomial Logistic Regression](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/05_Multinomial_Logistic_Regression.ipynb).
