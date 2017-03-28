@@ -1,3 +1,8 @@
+---
+layout: default
+mathjax: true
+title: Deep Learning Course DL
+---
 ## Linear regression in TensorFlow
 
 a) Open the notebook [Linreg_with_slider](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/02_Linreg_with_sliderLinreg_with_slider.ipynb) and run the fist 4 cells and try to minimize the loss by adjusting the parameters a and b.
