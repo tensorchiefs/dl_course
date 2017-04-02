@@ -364,19 +364,19 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>7</td>
       <td> 
-      		<b>Un- and Semi-supervised Learning</b> <a href="XXX?dl=1">slides (TODO)</a>
+      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/56ul0tw7l8yxvu2/day7-plan.pdf?dl=1">slides (will be updated)</a>
       		<ul>
-   					<li>Autoencoder</li>
-					<li>denoising Autoencoder</li>
-      					<li>semi-supervised learning</li>
-      					<li>TODO</li>
-      		</ul>
+   					<li>How to do unsupervised feature learning or representation learning?</li>
+					<li>Autoencoder and denoising AE</li>
+					<li>What to do with unsupervised learned features?</li>
+      					<li>Ladder Network for semi-supervised learning</li>
+       		</ul>
       </td>
       <td> 
         <ul>
-		<li>
-	TODO
-	</li>
+	<li>
+      			<a href="https://www.dropbox.com/s/dvq5upb5nof090x/Bengio2014-representation-learning.pdf?dl=1">Bengio's Review on representation learning</a>
+      		</li>
 
         </ul>
       </td>
