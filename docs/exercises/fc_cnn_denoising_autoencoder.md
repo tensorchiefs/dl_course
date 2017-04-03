@@ -8,7 +8,7 @@ title: Deep Learning Course
 Open the notebook [16_fc_cnn_denoising_autoencoder_solution](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb) and run all cells.  
 Try to understand the code.
 
-a) Look at first fully connected autoencoder. Why is there a sigmoid-activation in the last layer? What is the size of the bottleneck layer?  Hint: What is the range of the input data and want is the goal of the autoencoder.
+a) Look at first fully connected autoencoder. Why is there a sigmoid-activation in the last layer? What is the size of the bottleneck layer?  Hint: What is the range of the input data and what is the goal of the autoencoder.
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
