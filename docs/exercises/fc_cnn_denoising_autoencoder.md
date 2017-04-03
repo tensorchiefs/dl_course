@@ -25,6 +25,6 @@ _________________________________________________________________
 
 b) What is the difference between the fc autoencoder and the denoising fc autoencoder?
 
-c) Why are the much less weights in the cnn autoencoders.
+c) Why are there much less weights in the cnn autoencoders.
 
 d) Compare the the five tsne-plots. What do you think, which one is the best?
