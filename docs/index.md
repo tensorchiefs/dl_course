@@ -383,7 +383,10 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
       		<li>
-      			TODO
+		
+					16 FC and CNN Autoencoders:<a href="exercises/fc_cnn_denoising_autoencoder"> Exercises</a> |
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>
+		
       		</li>
       		<li>
       			 TODO
