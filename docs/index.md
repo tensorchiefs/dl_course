@@ -384,16 +384,21 @@ The course is split in 8 sessions, each 4 hours long.
       	<ul>
       		<li>
 		
-					16 FC and CNN Autoencoders:<a href="exercises/fc_cnn_denoising_autoencoder"> Exercises</a> |
+		
+					16 FC and CNN Autoencoders:<a href="exercises/16_fc_cnn_denoising_autoencoder"> Exercises</a> | 
+
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/16_fc_cnn_denoising_autoencoder_solution.ipynb"> Solution</a>
+	
 		
+			
       		</li>
+
       		<li>
-      			 TODO
-      		</li> 
-      		<li>
-      			17 Using unsupervised learned featurs for classification:<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
 		
+					17 Using unsupervised learned featurs for classification:<a href="exercises/17_MNIST_feature_evaluation"> Exercises</a> | 
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation.ipynb"> Notebook</a> |
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
+
       		</li>
          </ul>
       </td>
