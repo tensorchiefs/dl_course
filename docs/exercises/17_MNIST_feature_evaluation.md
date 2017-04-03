@@ -3,13 +3,13 @@ layout: default
 mathjax: true
 title: Deep Learning Course 
 ---
-## MNIST_feature_evaluation
+## Evaluate unsupervised learned MNIST features w.r.t. their suitability for classifying the corresponding digit labels
 
-In the last excercise we compared different methods to extract features, now we want to see how we can use those features for a classification task.
+In the last excercise we have investigated the suitability of unsupervised learned features of MNIST data for pattern recognition in a 2D t-SNE plot.  Now we want to see if these features are useful to learn a classification for the digit label with only 100 labeled images as training data.
 Open the notebook [17_MNIST_feature_evaluation](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation.ipynb).  
-In this notebook we will train a classifier on the extractet features of the MNIST dataset. We only use 100 trainig examples and predict 2000 digits. Eventually we compare the performace for all features extractiong methods, we used in excercise 16.
+In this notebook we will train a fcNN classifier on the different versions of unsupervised learned MNIST features. We only use 100 trainig examples and then we use the trained fcNN to predict the label of 2000 digit images. A good feature representation should allow for efficient training with only few training data. Accordingly we compare the performace of the trained classifier to asses the suitability of the used features.
 
-a) Built the network below in cell 9. Hint: remember the input layer. What is the inputshape? Use probability of 0.4.
+a) Built the network below in cell 9. Hint: Recall the shape of the input layer. Use a dropout probability of 0.4.
 
 ```
 _________________________________________________________________
@@ -29,4 +29,4 @@ Non-trainable params: 400.0
 _________________________________________________________________
 ``` 
 
-b) Which features are the best for the classification and why?
+b) Which unsupervised learned feature respresentation is the best for the classification? Do you have an idea why?
