@@ -392,7 +392,7 @@ The course is split in 8 sessions, each 4 hours long.
       			 TODO
       		</li> 
       		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
+      			17 Using unsupervised learned featurs for classification:<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/17_MNIST_feature_evaluation_solution.ipynb"> Solution</a>
 		
       		</li>
          </ul>
