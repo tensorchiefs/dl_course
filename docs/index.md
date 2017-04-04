@@ -364,7 +364,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>7</td>
       <td> 
-      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/56ul0tw7l8yxvu2/day7-plan.pdf?dl=1">slides (will be updated)</a>
+      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/sql1grjk1oqum9d/day7-plan.pdf?dl=1">slides (will be updated)</a>
       		<ul>
    					<li>How to do unsupervised feature learning or representation learning?</li>
 					<li>Autoencoder and denoising AE</li>
