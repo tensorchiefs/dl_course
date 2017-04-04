@@ -364,12 +364,13 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>7</td>
       <td> 
-      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/sql1grjk1oqum9d/day7-plan.pdf?dl=1">slides (will be updated)</a>
+      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a>
       		<ul>
    					<li>How to do unsupervised feature learning or representation learning?</li>
 					<li>Autoencoder and denoising AE</li>
-					<li>What to do with unsupervised learned features?</li>
-      					<li>Ladder Network for semi-supervised learning</li>
+					<li>Use unsupervised learned features for pattern recognition</li>
+					<li>Use unsupervised learned features for classifcation with few labeled instances</li>
+      					
        		</ul>
       </td>
       <td> 
@@ -407,10 +408,11 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>8</td>
       <td> 
-      		<b>to do</b> 
+      		<b>Project presentation and Ladder Networks</b> 
       		<ul>
-   					<li>to do</li>
-      					<li>Ladder Network for semi-supervised learning</li>
+   					<li>Spotlight talks</li>
+					<li>Poster presentations</li>
+      					<li>Ladder Networks for 1-step semi-supervised learning</li>
        		</ul>
       </td>
       <td> 
@@ -418,6 +420,9 @@ The course is split in 8 sessions, each 4 hours long.
 	<li>
       			to do
       		</li>
+	<li>
+	<a href="https://www.youtube.com/watch?v=ZlyqNiPFu2s">The ladder network presented by its inverntor</a>
+	</li>
 
         </ul>
       </td>
