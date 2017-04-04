@@ -403,6 +403,40 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
+       <!-- Woche -->
+    <tr>
+      <td>8</td>
+      <td> 
+      		<b>to do</b> 
+      		<ul>
+   					<li>to do</li>
+      					<li>Ladder Network for semi-supervised learning</li>
+       		</ul>
+      </td>
+      <td> 
+        <ul>
+	<li>
+      			to do
+      		</li>
+
+        </ul>
+      </td>
+      <td>
+      	<ul>
+      		<li>
+		
+		to do
+		
+			
+      		</li>
+
+      		<li>
+		
+					to do
+      		</li>
+         </ul>
+      </td>
+    </tr>
    
  
 </table>
