@@ -417,9 +417,7 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-	<li>
-      			to do
-      		</li>
+
 	<li>
 	<a href="https://www.youtube.com/watch?v=ZlyqNiPFu2s">The ladder network presented by its inverntor</a>
 	</li>
@@ -428,16 +426,13 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td>
       	<ul>
-      		<li>
-		
-		to do
-		
-			
-      		</li>
+
 
       		<li>
-		
-					to do
+					18 sing a Variational autoencoder to generate digit examples:<a href="exercises/18_VAE"> Exercises</a> | 
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE.ipynb"> Notebook</a> |
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE_solution.ipynb"> Solution</a>
+
       		</li>
          </ul>
       </td>
