@@ -429,7 +429,7 @@ The course is split in 8 sessions, each 4 hours long.
 
 
       		<li>
-					18 sing a Variational autoencoder to generate digit examples:<a href="exercises/18_VAE"> Exercises</a> | 
+					18 Using a Variational autoencoder to generate digit examples:<a href="exercises/18_VAE"> Exercises</a> | 
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE_solution.ipynb"> Solution</a>
 
