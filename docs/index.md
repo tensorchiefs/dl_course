@@ -364,7 +364,7 @@ The course is split in 8 sessions, each 4 hours long.
     <tr>
       <td>7</td>
       <td> 
-      		<b>Un- and Semi-supervised Learning</b> <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a>
+      		<b>Un- and Semi-supervised Learning I</b> <a href="https://www.dropbox.com/s/x33aydj6ehyl15t/DL-day7-presented.pdf?dl=1">slides</a>
       		<ul>
    					<li>How to do unsupervised feature learning or representation learning?</li>
 					<li>Autoencoder and denoising AE</li>
@@ -424,7 +424,7 @@ The course is split in 8 sessions, each 4 hours long.
         <ul>
 
 	<li>
-	<a href="https://www.youtube.com/watch?v=ZlyqNiPFu2s">The ladder network presented by its inverntor</a>
+	<a href="https://www.youtube.com/watch?v=ZlyqNiPFu2s">The ladder network presented by its inverntor H. Valpola</a>
 	</li>
 
         </ul>
