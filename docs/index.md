@@ -407,13 +407,17 @@ The course is split in 8 sessions, each 4 hours long.
        <!-- Woche -->
     <tr>
       <td>8</td>
+            
       <td> 
       <b>Un- and Semi-supervised Learning II</b> <a href="https://www.dropbox.com/s/ur9ebcdvzfz9do7/day8-plan.pdf?dl=1">slides will be updated</a>
-      		<b>Project presentation and Ladder Networks</b> 
+      		
       		<ul>
-   					<li>Spotlight talks</li>
+   					<li>Classical and denoising AE</li>
+					<li>Classical and denoising variational AE</li>
+					<li>Ladder network for un- and semi-supervised learning</li>
+					<li>Spotlight talks</li>
 					<li>Poster presentations</li>
-      					<li>Ladder Networks for 1-step semi-supervised learning</li>
+      					
        		</ul>
       </td>
       <td> 
