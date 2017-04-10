@@ -5,7 +5,7 @@ title: Deep Learning Course
 ---
 ## Using a Variational autoencoder to generate digit examples
 
-Open the notebook [18_VAE.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE_solution.ipynb).
+Open the notebook [18_VAE.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE.ipynb).
 
 a) Where do we define a reward for a good reconstruction?
 
