@@ -196,10 +196,10 @@ The course is split in 8 sessions, each 4 hours long.
       <td>
       	<ul>
 	<li>
-      			<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> ReLu exercise </a>
-      		</li>
-		   <li>
-      			<a href="https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1">ReLu exercise solution</a>
+	      			<li> finger-exercise ReLu
+			<a href="https://www.dropbox.com/s/yogcjidr7ng3qtb/08a-Schnelluebung-ReLu.pdf?dl=1"> Exercises</a>
+			<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> 
+	
       		</li>
 
       		<li>
