@@ -315,7 +315,7 @@ The course is split in 8 sessions, each 4 hours long.
 	
       		</li>
       		<li>
-		15 Char RNN <a href="exercises/15_rnn"> Exercises</a> |
+		15 Char RNN <a href="exercises/15_rnn"> Exercise</a> |
 		<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/15_char_rnn_didactic_prediction_solution.ipynb"> Notebook</a> 
 		
       		</li> 
