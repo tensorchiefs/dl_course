@@ -203,26 +203,13 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 <li>
 
-			14 Simple RNN:<a href="exercises/day4"> Exercises</a> 
+			Exercises CNN :<a href="exercises/day4"> Exercises</a>
+			<a href="https://www.dropbox.com/s/r4a232kec4dj1as/08_cnn2_mnist_No_solution.ipynb?dl=1">Solution </a>
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1 with centered MNIST</a>
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist_no_centering.ipynb"> Solution CNN1  without centering</a>
+			      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
 </li>
 
-      		<li>
-      			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Exercises day4</a>
-      		</li>
-		
-		<li>
-      			<a href="https://www.dropbox.com/s/r4a232kec4dj1as/08_cnn2_mnist_No_solution.ipynb?dl=1">Exercises day4 solution </a>
-      		</li>
-		 <li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1 with centered MNIST</a>
-      		</li>
-		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist_no_centering.ipynb">Solution CNN1  without centering</a>
-      		</li>
-		
-		      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
-      		</li>
 		
 				      		<li>
       			<a href="https://www.dropbox.com/s/l0ck0xddlaazhb9/Data_8_faces_no_cut.hdf5?dl=0l">HA: Data 8 faces download</a>
