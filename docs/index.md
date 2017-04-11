@@ -201,6 +201,12 @@ The course is split in 8 sessions, each 4 hours long.
 			<a href='https://www.dropbox.com/s/d1se84xdui3uwqz/08a-Schnelluebung-ReLu-solution.pdf?dl=1'> Solution </a> 
 	
       		</li>
+<li>
+
+			14 Simple RNN:<a href="exercises/day4.md"> Exercises</a> | 
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
+</li>
 
       		<li>
       			<a href="https://www.dropbox.com/s/815hpiuj7uz58ny/08-day4-exercises_final.pdf?dl=1">Exercises day4</a>
