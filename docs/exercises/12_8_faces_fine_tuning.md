@@ -6,8 +6,9 @@ title: Deep Learning Course
 ## 8 faces fine tuning
  
 In this excercise we work with the 8 faces dataset. We want to improve the performance by using a  
-pretrained vgg16 network. We predict the features on the fc1 layer with the already learned weights on imagenet  
-and then train a small fully connected network for our own labels.
+pretrained vgg16 network. We predict the features on the fc1 layer with the already learned weights on imagenet 
+and then train a small fully connected network for our own labels. The feature extraction was done in this notebook 
+[vgg16_feature_extraction_8_faces](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_vgg_feature_extraction_without_relu_8_faces.ipynb)
 
 a) What do you expect, will it increase our performance? Why? What's the idea behind this so called fine tuning?
 
