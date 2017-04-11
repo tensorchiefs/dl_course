@@ -68,7 +68,7 @@ In which layer do we need to learn most parameter/weights?
 
 Do you expect with this cnn1 more or less overfitting then in the fc NN above? Why?
 
-Please open the ipython-Notebook [08_cnn1_mnist.ipynb] (https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb) and 
+Please open the ipython-Notebook [08_cnn1_mnist.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb) and 
 try to understand the code and run the code.
 
 How large is the accuracy on the validation set? Do you observe overfitting? 
@@ -80,8 +80,8 @@ Instead of commenting out each command, you can turn the cell in Cell Type "mark
 How large is now the accuracy on the validation set? Can you explain, what happened?
 
 
-c) Please open the ipython-Notebook [08_cnn2_mnist_No_solution.ipynb] (https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_No_solution.ipynb). Search for the position in the code which is marked by 
-"# here is your code coming:" and add the missing layers - the missing layers are marked  below. How is the performance of cnn2?
+c) Please open the ipython-Notebook [08_cnn2_mnist_No_solution.ipynb](https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_No_solution.ipynb). 
+Search for the position in the code which is marked by "# here is your code coming:" and add the missing layers - the missing layers are marked  below. How is the performance of cnn2?
 ```
 ____________________________________________________________________________________________________
 Layer (type)                     Output Shape          Param #     Connected to                     
