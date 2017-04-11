@@ -282,9 +282,6 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 
 
-		</ul>
-		</td>
-		</tr>
 		
  <!-- Woche -->
      <tr>
