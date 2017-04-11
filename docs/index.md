@@ -260,28 +260,24 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td>
       	<ul>
-      		<li>
-      			<a href="https://www.dropbox.com/s/96a0a0umk3f7xew/11-finger-exercise.pdf?dl=1">11-finger-exercise</a>
+		      		<li> 11 finger-exercise CNN
+			<a href="https://www.dropbox.com/s/96a0a0umk3f7xew/11-finger-exercise.pdf?dl=1"> Exercise</a>|
+			<a href="https://www.dropbox.com/s/teto11w8awxkj9i/11-finger-exercise-solution.pdf?dl=1"> Solution </a> 
+	
       		</li>
-      		<li>
-      			<a href="https://www.dropbox.com/s/teto11w8awxkj9i/11-finger-exercise-solution.pdf?dl=1">11-finger-exercise solution</a>
-      		</li>
+	
+
       		
-				      		<li>
-      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/12_8_faces_fine_tuning.html">12_transfer_learning</a>
+				  <li> 12 transfer learning<a href="exercises/12_8_faces_fine_tuning"> Exercises</a> | 
+      			
+	<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">Solution</a>
+      			13 optimized image<a href="https://www.dropbox.com/s/956jxouq0eqisn8/13-exercises-optimized-image.pdf?dl=1"> Exercise</a>|
+			<a href="https://www.dropbox.com/s/5zyntjgff9k5cgm/13-exercises-optimized-image-solution.pdf?dl=1">Solution</a>
+	      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/13-optimize-image.ipynb"> Notebook</a>
+			
       		</li>
 		
 
-		      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/12_8_faces_fine_tuning_solution.ipynb">12_transfer_learning solution</a>
-      		</li>
-
-      		<li>
-      			<a href="https://www.dropbox.com/s/956jxouq0eqisn8/13-exercises-optimized-image.pdf?dl=1">13-exercises-optimized-image</a>
-      		</li>
-      		<li>
-      			<a href="https://www.dropbox.com/s/5zyntjgff9k5cgm/13-exercises-optimized-image-solution.pdf?dl=1">13-exercises-optimized-image solution</a>
-      		</li>
 		<li>
       			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/13-optimize-image.ipynb">13-exercises-optimized-image notebook</a>
       		</li>
