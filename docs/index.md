@@ -203,8 +203,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 <li>
 
-			Exercises CNN :<a href="exercises/day4"> Exercises</a>
-			<a href="https://www.dropbox.com/s/r4a232kec4dj1as/08_cnn2_mnist_No_solution.ipynb?dl=1">Solution </a>
+			08 CNN <a href="exercises/day4"> Exercises</a>
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1 with centered MNIST</a>
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist_no_centering.ipynb"> Solution CNN1  without centering</a>
 			      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
@@ -212,30 +211,16 @@ The course is split in 8 sessions, each 4 hours long.
 
 		
 				      		<li>
-      			<a href="https://www.dropbox.com/s/l0ck0xddlaazhb9/Data_8_faces_no_cut.hdf5?dl=0l">HA: Data 8 faces download</a>
-      		</li>
-		
-		      		<li>
-      			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html">HA: Data overview</a>
-      		</li>
-		
-				      		<li>
-      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/8_faces_only_fc.html">HA: 8 faces FC </a>
-      		</li>
-		
-								      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc_solution.ipynb">HA: 8 faces FC Solution</a>
-      		</li>
-		
-				      		<li>
-      			<a href="http://htmlpreview.github.io/?https://github.com/tensorchiefs/dl_course/blob/master/exercises/8_faces_cnn.html">HA: 8 faces CNN</a>
+      			 09 and 10 Homework: 8 Faces
+			<a href="https://www.dropbox.com/s/l0ck0xddlaazhb9/Data_8_faces_no_cut.hdf5?dl=0l">Data download</a>
+			<a href="https://www.dropbox.com/sh/oek6lcshf9ws8o4/AAB5hSpN328raDkbdYHH_YsQa?dl=0&preview=8_faces_dataoverview.html"> Data overview</a>
+			 <a href="exercises/09_10_8_faces.md">Exercise </a>
+			       			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/09_8_faces_only_fc_solution.ipynb"> FC Solution</a>
+						      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn_solution.ipynb"> CNN Solution</a>
+			
       		</li>
 		
 
-		
-				      		<li>
-      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/10_8_faces_cnn_solution.ipynb">HA: 8 faces CNN Solution</a>
-      		</li>
 		
          </ul>
       </td>
