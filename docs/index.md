@@ -409,7 +409,7 @@ The course is split in 8 sessions, each 4 hours long.
       <td>8</td>
             
       <td> 
-      <b>Un- and Semi-supervised Learning II</b> <a href="https://www.dropbox.com/s/ur9ebcdvzfz9do7/day8-plan.pdf?dl=1">slides will be updated</a>
+      <b>Un- and Semi-supervised Learning II</b> <a href="https://www.dropbox.com/s/yyw0vuvfnnlz8e6/DL-day8-presented.pdf?dl=1">slides</a>
       		
       		<ul>
    					<li>Classical and denoising AE</li>
