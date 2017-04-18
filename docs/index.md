@@ -64,8 +64,8 @@ The course is split in 8 sessions, each 4 hours long.
 			<li>
       		01 Matrix Multiplication 
           <a href="exercises/01_tf_matrix_mult"> Exercises</a> | 
-          <a href='https://github.comm/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
-          <a href='https://github.comm/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
+          <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication.ipynb'> Notebook</a> | 
+          <a href='https://github.com/tensorchiefs/dl_course/blob/master/notebooks/01_MatrixMultiplication_solution.ipynb'> Solution</a> 
       		</li>
 
 			<li>
