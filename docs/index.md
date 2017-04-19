@@ -407,8 +407,6 @@ The course is split in 8 sessions, each 4 hours long.
     </tr>
    
  
-</table>
-</html>
 
 
 
