@@ -385,7 +385,9 @@ The course is split in 8 sessions, each 4 hours long.
       </td>
       <td> 
         <ul>
-
+	<li>
+        DL-book chapter 14
+	</li>
 	<li>
 	<a href="https://www.youtube.com/watch?v=ZlyqNiPFu2s">The ladder network presented by its inverntor H. Valpola</a>
 	</li>
