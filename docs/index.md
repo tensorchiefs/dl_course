@@ -22,6 +22,7 @@ We took inspiration (and sometimes slides / figures) from the following resource
 ## Syllabus
 The course is split in 8 sessions, each 4 hours long. 
 
+<table class="zebra" style="max-width:900px">
 
   <tr>
       <th style="text-align: left;" width="5">Day</th>
