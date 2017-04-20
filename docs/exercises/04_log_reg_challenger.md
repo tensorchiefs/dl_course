@@ -9,9 +9,9 @@ a) Open the notebook [log_reg_challenger](https://github.com/tensorchiefs/dl_cou
 we use (binary) logistic regression to predict the probability for an O-ring to show a damage
 $(y=1)$ by using the temperature during take-off as predictor $x$.  
 
-$$p(y_i=1 | x_i) = \frac{e^{(b + W' x_i)}}{1 + e^{(b + W' x_i)}} = \frac{1}{1 + e^{-(b + W' x_i)}}$$  
+$$p_1=p(y_i=1 | x_i) = \frac{e^{(b + W' x_i)}}{1 + e^{(b + W' x_i)}} = \frac{1}{1 + e^{-(b + W' x_i)}}$$  
 
-Determine the predicted $p(y_i=1|x_i)$ values when using the parameters $W=-0.2$ and $b=20$. What do you observe?
+Determine the predicted $p_1$ values when using the parameters $W=-0.2$ and $b=20$. What do you observe?
 
 b) Now lets try to find better values for $W$ and $b$. Lets assume $W$ is given with $-1$. We want the probability
 for a damage $p(y_i=1 | x_i)$ to be $0.5$.  
