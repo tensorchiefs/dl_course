@@ -203,7 +203,7 @@ The course is split in 8 sessions, each 4 hours long.
       		</li>
 <li>
 
-			08 CNN <a href="exercises/day4"> Exercises</a>
+			08 CNN <a href="exercises/08_CNN_MNIST"> Exercises</a>
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist.ipynb">Solution CNN1 with centered MNIST</a>|
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn1_mnist_no_centering.ipynb"> Solution CNN1  without centering</a>|
 			      			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/08_cnn2_mnist_solution.ipynb">Solution CNN2  MNIST</a>
