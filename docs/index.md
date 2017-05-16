@@ -311,6 +311,8 @@ The course is split in 8 sessions, each 4 hours long.
 			14 Simple RNN:<a href="exercises/14_rnn_simple"> Exercises</a> | 
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_no_solution.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/14_simple_rnn_tf1_solution.ipynb"> Solution</a>
+			<a href="https://github.com/tensorchiefs/dl_course/blob/master/exercises/15_rnn_solution_a.pdf">Solution part a</a>
+
 	
       		</li>
       		<li>
