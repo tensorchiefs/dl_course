@@ -404,12 +404,16 @@ The course is split in 8 sessions, each 4 hours long.
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE.ipynb"> Notebook</a> |
 			<a href="https://github.com/tensorchiefs/dl_course/blob/master/notebooks/18_VAE_solution.ipynb"> Solution</a>
 
-      		</li>
-         </ul>
-	      </td>
-
+      	
+	
+	</li>
+        
+	</ul>
+	 
+	 </td>
     </tr>
-</table>
+
+
 
 Tensorchiefs are Oliver Dürr, Beate Sick and Elvis Murina.
-    
+
