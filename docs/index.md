@@ -409,8 +409,8 @@ The course is split in 8 sessions, each 4 hours long.
          </ul>
       </td>
     </tr>
-   
- 
+    
+Tensorchiefs are Oliver Dürr, Beate Sick and Elvis Murina. 
 
 
 
