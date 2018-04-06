@@ -1,0 +1,19 @@
+channels:
+- conda-forge
+dependencies:
+- notebook=5.4
+- nbconvert=5.3
+- ipykernel=4.7
+- ipywidgets=7.1
+- widgetsnbextension=3.1
+- matplotlib=2.1
+- pandas=0.20
+- python=3.6
+- scikit-image=0.13
+- scikit-learn=0.18
+- seaborn=0.7
+- pyyaml
+- traittypes==0.0.6
+- invoke=0.21
+- keras
+- tensorflow=1.1
